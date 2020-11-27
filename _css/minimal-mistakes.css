@@ -4800,3 +4800,17 @@ a.reversefootnote:hover {
     height: 1px !important
   }
 }
+
+
+/* custom content */
+
+.pubs {
+  padding: 3px 0px 3px 10px;
+}
+
+
+.pubs:nth-child(even) {
+  background-color: #dcdcdc;
+  /*background-color: #ddd;*/
+  border-radius: 5px;
+}
