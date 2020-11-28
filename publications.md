@@ -9,11 +9,12 @@
 
 ```julia:./ex1
 #hideall
-using Cascadia, Gumbo, HTTP
-r = HTTP.get("https://arxiv.org/a/soejima_t_1.html")
+using Cascadia, Gumbo, HTTP, Dates
+r = HTTP.get("https://arxiv.org/a/zaletel_m_1.html")
 h = parsehtml(String(r.body))
-sm = Selector(".meta")
-articles = eachmatch(sm, h.root)
+sm = Selector(".mathjax")
+articles = filter(node->getattr(node, "class")=="mathjax", eachmatch(sm, h.root))
+
 function getauthors(article)
     sm = Selector(".list-authors")
     raw_authors = eachmatch(sm, article) |> only
@@ -26,26 +27,69 @@ function gettitle(article)
     title = raw_title[2] |> text |> strip
     return title
 end
+function getyear(article)
+end
+function getarxiv(article)
+    sm = Selector(".list-identifier")
+    raw_arxiv = eachmatch(sm, article) |> only
+    arxiv = getattr(raw_arxiv[1], "href") |> strip
+    return arxiv[6:end]
+end
+
+function getjournalref(article)
+    sm = Selector(".list-journal-ref")
+    raw_journal = eachmatch(sm, article)
+    if isempty(raw_journal)
+        return ""
+    end
+    raw_journal = raw_journal |> only
+    journal = raw_journal[2] |> text |> strip
+    return journal
+end
+
 authors = getauthors.(articles)
 titles = gettitle.(articles)
-function article_list(authors, titles)
+arxivs = getarxiv.(articles)
+journalrefs = getjournalref.(articles)
+
+sorted_index = sortperm(arxivs, rev=true)
+
+authors = authors[sorted_index]
+titles = titles[sorted_index]
+arxivs = arxivs[sorted_index]
+journalrefs = journalrefs[sorted_index]
+
+function article_list(authors, title, arxivs, journalrefs)
     s = ""
-    for (author, title) in zip(authors, titles)
+    for (ind, (author, title, arxiv, journalref)) in enumerate(zip(authors, titles, arxivs, journalrefs))
+        if ind != length(arxivs) && arxiv[1:2] != arxivs[ind+1][1:2]
+            s *= "\\## arxiv"
+        end
+
         author_array = join(author, ", ")
-        s *= "\\publishedarticle{$title}{$author_array}\n"
+        s *= "\\publishedarticle{$ind}{$title}{$author_array}{$arxiv}{$journalref}\n"
     end
     return s
 end
-s = article_list(authors, titles)
+
+## string(today())[1:4]
+s = article_list(authors, titles, arxivs, journalrefs)
 println(s)
 ```
 
-\newcommand{\publishedarticle}[2]{
+\newcommand{\publishedarticle}[5]{
     @@pubs
-    **!#1**
+    #1. **!#2**
 
-    #2
+    #3
+
+    arXiv: [#4](https://arxiv.org/abs/!#4), #5
     @@
 }
+
+Check out [this arXiv author profile](https://arxiv.org/a/zaletel_m_1.html) as well as [the Google Scholar profile](https://scholar.google.com/citations?user=LGNFXjwAAAAJ&hl=en).
+Many group members publish with other groups too. Check out their individual profile for more info.
+
+\toc
 
 \textoutput{./ex1}

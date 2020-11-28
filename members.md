@@ -22,26 +22,10 @@ email:!#3
 @@
 }
 
-
+## PI
 \insertprofile{iguana}{Marine iguana}{iguana (at) nowhere.tv}
 
-@@row
-@@container
-@@left ![](/assets/member_profile/iguana/picture.jpg) @@
-@@
-Marine iguanas are **truly splendid** creatures. They're not found in equations like $\exp(-i\pi)+1$. But they're still quite cool.
-~~~
-<div style="clear: both"></div>
-~~~
-@@
+## Postdocs
 
-
-    @@row
-    @@container
-    @@left ![](/assets/member_profile/iguana/picture.jpg) @@
-    @@
-    Marine iguanas are **truly splendid** creatures. They're not found in equations like $\exp(-i\pi)+1$. But they're still quite cool.
-    ~~~
-    <div style="clear: both"></div>
-    ~~~
-    @@
+## Grad Students
+\insertprofile{iguana_grad}{Marine iguana}{iguana (at) nowhere.tv}
