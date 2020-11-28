@@ -15,7 +15,7 @@
 
 email:!#3
 
-\textinput{/assets/member_profile/!#1/profile.txt}
+\textinput{/assets/member_profile/!#1/profile}
 ~~~
 <div style="clear: both"></div>
 ~~~

@@ -27,8 +27,6 @@ function gettitle(article)
     title = raw_title[2] |> text |> strip
     return title
 end
-function getyear(article)
-end
 function getarxiv(article)
     sm = Selector(".list-identifier")
     raw_arxiv = eachmatch(sm, article) |> only
