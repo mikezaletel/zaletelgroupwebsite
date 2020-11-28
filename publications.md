@@ -1,4 +1,4 @@
-@def title = "Members"
+@def title = "Publications"
 @def hascode = false
 @def date = Date(2019, 3, 22)
 @def rss = "group member description"
@@ -61,9 +61,12 @@ journalrefs = journalrefs[sorted_index]
 
 function article_list(authors, title, arxivs, journalrefs)
     s = ""
+    year = "00"
     for (ind, (author, title, arxiv, journalref)) in enumerate(zip(authors, titles, arxivs, journalrefs))
-        if ind != length(arxivs) && arxiv[1:2] != arxivs[ind+1][1:2]
-            s *= "\\## arxiv"
+        new_year = arxiv[1:2]
+        if year != new_year
+            year = new_year
+            s *= "## 20$year\n"
         end
 
         author_array = join(author, ", ")
