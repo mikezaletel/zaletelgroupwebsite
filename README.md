@@ -1,8 +1,9 @@
 # Group website
 
 ## To-do
-- make member page look nicer
+- make member page look nicer -> Add former group members table with picture and next appointment.
 - Format the publications page better
+    - Format the publications
 - Create undergraduate project page
 - Better documentation
 
