@@ -5,7 +5,6 @@
 
 @def tags = String[]
 
-# Publications
 
 ```julia:./ex1
 #hideall
@@ -79,18 +78,30 @@ println(s)
 ```
 
 \newcommand{\publishedarticle}[5]{
-    @@pubs
-    #1. **!#2**
+@@pubs
+~~~#1~~~. **!#2**
 
-    #3
+#3
 
-    arXiv: [#4](https://arxiv.org/abs/!#4), #5
-    @@
+arXiv: [#4](https://arxiv.org/abs/!#4), #5
+@@
 }
 
-Check out [this arXiv author profile](https://arxiv.org/a/zaletel_m_1.html) as well as [the Google Scholar profile](https://scholar.google.com/citations?user=LGNFXjwAAAAJ&hl=en).
-Many group members publish with other groups too. Check out their individual profile for more info.
 
+@@pubs-container
+
+
+@@sidenav
 \toc
+@@
+
+@@pubs-content
+# Publications
+
+Check out [this arXiv author profile](https://arxiv.org/a/zaletel_m_1.html) as well as [the Google Scholar profile](https://scholar.google.com/citations?user=LGNFXjwAAAAJ&hl=en).
+Many group members publish with other groups too, both at Berkeley and around the world. Check out their individual profile for more info.
+
 
 \textoutput{./ex1}
+@@
+@@
