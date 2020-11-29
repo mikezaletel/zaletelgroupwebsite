@@ -4876,12 +4876,16 @@ a.reversefootnote:hover {
 }
 
 .pubs p{
-  margin: 0.15em;
+  margin: 0.1em;
 }
 
 .pubs-content h2{
   margin-top: 0.1em;
   margin-right: 0em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0em;
   margin-left: 0em;
+}
+
+.pubs-content p{
+
 }

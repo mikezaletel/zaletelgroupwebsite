@@ -64,6 +64,7 @@ function article_list(authors, title, arxivs, journalrefs)
         if year != new_year
             year = new_year
             s *= "## 20$year\n"
+            # s *= "~~~<h2 id=\"20$year\"><a href=\"#20$year\">20$year</a></h2>~~~\n"
         end
 
         author_array = join(author, ", ")
