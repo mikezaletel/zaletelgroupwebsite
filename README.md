@@ -2,6 +2,7 @@
 
 ## To-do
 - make member page look nicer -> Add former group members table with picture and next appointment.
+- automatic generation of individual member's page with a list of publications
 - Format the publications page better
     - Format the publications
 - Create undergraduate project page
