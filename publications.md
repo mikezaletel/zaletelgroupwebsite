@@ -63,7 +63,7 @@ function article_list(authors, title, arxivs, journalrefs)
         new_year = arxiv[1:2]
         if year != new_year
             year = new_year
-            s *= "## 20$year\n"
+            s *= "## 20$year \n"
             # s *= "~~~<h2 id=\"20$year\"><a href=\"#20$year\">20$year</a></h2>~~~\n"
         end
 
