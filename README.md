@@ -32,6 +32,7 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 # Publications
 
 \publist{https://arxiv.org/a/your_author_profile.html} # use your arXiv author profile
+\publistarxivsearch{https://arxiv.org/a/your_searchresult.html} # use your arXiv author profile
 ```
 
 `yoururl` of the resulting page is `/members/yourname/`.
