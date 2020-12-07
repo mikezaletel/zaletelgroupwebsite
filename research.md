@@ -28,3 +28,38 @@
 ## Quantum simulation in AMO
 
 " With lil-Yao "
+
+
+## Syntax
+
+For more on this, read [Franklin documentation](https://franklinjl.org/syntax/markdown/#inline_and_display_maths)
+
+You can use bold text:  **KIVC** You can also use italics, _bilayer graphene_, and combine them **_magic angle_**. Inline code can be shown using back ticks `likethis`. Multiline code blocks are shown using triple back ticks:
+
+```julia
+function pseudocode()
+    # do awesome stuff here
+    return awesome
+end
+
+```
+
+You can also do inline math $\mathcal{T} = \sigma_y \mathcal{K}$ and display math:
+
+$$ H = \sum_i Z_i Z_{i+1} + h \sum_i X_i$$
+
+Multiline math:
+
+\begin{align}
+
+1 + 1 &= 2 \\
+& = 2 + 0
+
+\end{align}
+
+
+You can also insert file.
+
+\figalt{KIVC figure}{./figures/KIVC.PNG}
+
+There is a way to add citation with automatic styling, but that feels like too much work tbh.
