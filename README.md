@@ -7,6 +7,9 @@
     - Format the publications
 - Create undergraduate project page
 - Better documentation
+- Scraping from more webpages (ORCID? arXiv search results?)
+- Make the main page better
+- overall aesthetic adjustment (it looks too much like the template)
 
 ## Usage
 
