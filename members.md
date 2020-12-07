@@ -6,26 +6,14 @@
 @def tags = String[]
 
 # Members
-\newcommand{\insertprofile}[3]{
-@@row
-@@container
-@@left ![](/assets/member_profile/!#1/picture.jpg) @@
-@@
-**!#2**
 
-email:!#3
-
-\textinput{/assets/member_profile/!#1/profile}
-~~~
-<div style="clear: both"></div>
-~~~
-@@
-}
 
 ## PI
-\insertprofile{iguana}{Mike Zaletel}{mikezaletel (at) berkeley.edu}
+\insertprofile{zaletel}{Mike Zaletel}{/publications}{mikezaletel (at) berkeley.edu}
 
 ## Postdocs
 
+\insertprofile{hauschild}{Johannes Hauschild}{https://johannes-hauschild.de/}{ website (at) johannes-hauschild.de }
+
 ## Grad Students
-\insertprofile{iguana_grad}{Marine iguana}{iguana (at) nowhere.tv}
+\insertprofile{soejima}{Tomo Soejima}{/members/soejima}{tomohiro_soejima (at) berkeley.edu}

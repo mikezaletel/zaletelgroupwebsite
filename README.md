@@ -16,7 +16,22 @@
 
 In order to update your profile, create `_assets/member_profile/yourname`  folder containing `picture.png` and `profile.md`. You can use standard Markdown and LaTeX-like syntax in `profile.md`. Check out the sample `iguana/profile.md`.
 
-Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{your (at) email.address}` at an appropriate place.
+Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{yoururl}{your (at) email.address}` at an appropriate place. `yoururl` is the url of your personal website, or the path of your personal page within the group website, as described below.
+
+### Creating your own page
+
+If you do not have a personal website, you can host a mini personal website within the group website.
+Create `/members/yourname/index.md`. And start populating it with Markdown. You can write whatever you want there, but the following macros will give you a good default landing page:
+
+```
+\insertprofilepage{yourname}{Your Name}{ your (at) email.edu }
+
+# Publications
+
+\publist{https://arxiv.org/a/your_author_profile.html} # use your arXiv author profile
+```
+
+`yoururl` of the resulting page is `/members/yourname/`.
 
 ### How to launch a Franklin server
 

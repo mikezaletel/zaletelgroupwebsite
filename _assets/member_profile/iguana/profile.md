@@ -1,2 +1,0 @@
-Marine iguanas hail from **Ecuador**, but can be often found in _Utah_. Their main interest is effective consumption of red and green algae.
-In their spare time, they can be found solving non-linear $\sigma$ model. Maybe.

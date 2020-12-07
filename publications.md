@@ -73,20 +73,10 @@ function article_list(authors, title, arxivs, journalrefs)
     return s
 end
 
-## string(today())[1:4]
 s = article_list(authors, titles, arxivs, journalrefs)
 println(s)
 ```
 
-\newcommand{\publishedarticle}[5]{
-@@pubs
-~~~#1~~~. **!#2**
-
-#3
-
-arXiv: [#4](https://arxiv.org/abs/!#4), #5
-@@
-}
 
 
 @@pubs-container
