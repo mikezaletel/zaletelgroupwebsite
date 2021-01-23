@@ -32,12 +32,11 @@ For instance:
 @@row
 @@container
 ~~~
-<img class="left" src="/assets/member_profile/!#1/picture.jpg" alt="profile picture"  style="width:320px;height:auto;">
+<img class="left" src="/assets/member_profile/!#1/picture.jpg" alt="profile picture"  style="width:30%;height:auto;">
 ~~~
 @@
 [**!#2**](#3)
-
-email:#4
+~~~<br>~~~email:#4
 
 \textinput{/assets/member_profile/!#1/profile}
 ~~~
@@ -52,7 +51,7 @@ email:#4
 @@row
 @@container
 ~~~
-<img class="left" src="/assets/member_profile/!#1/picture.jpg" alt="profile picture"  style="width:320px;height:auto;">
+<img class="left" src="/assets/member_profile/!#1/picture.jpg" alt="profile picture"  style="width:30%;height:auto;">
 ~~~
 @@
 
@@ -184,12 +183,14 @@ end
 function getjournalref(article)
     sm = Selector(".comments")
     raw_journal = eachmatch(sm, article)
-    if raw_journal |> length < 2
-        return ""
-    else
-        journal = raw_journal[2] |> text
-        return journal[16:end]|>strip
+
+    for item in raw_journal
+        if startswith(text(item), "Journal")
+            return text(item)[16:end] |> strip
+        end
     end
+
+    return ""
 end
 
 authors = getauthors.(articles)

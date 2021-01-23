@@ -6,4 +6,5 @@
 @def tags = String[]
 
 # How to Join
-
+MIKE SHOULD EDIT THIS.
+See members page for contact information. Interested graduate students and and postdoctoral scholars should reach out to the group PI.

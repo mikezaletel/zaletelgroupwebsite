@@ -1,0 +1,1 @@
+Hello! I am interested in far too many research topics spanning physics and CS but am currently working on tensor networks methods for efficient classical and quantum simulations. Outside of research, I enjoy practicing classical flute, playing squash, and baking desserts.
