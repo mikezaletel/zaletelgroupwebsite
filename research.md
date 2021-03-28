@@ -11,24 +11,25 @@
 
 ## Topological phases in 2D materials
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Under construction.
 
 ## Twisted bilayer graphene and other Moire systems
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+In Moire heterostructures (like twisted bilayer graphene), electronic features such as bandwidth and interaction strength are highly tunable in the laboratory. This opens the door to studying physics of correlated eletrons at intermediate and strong coupling, which is often poorly understood and may exhibit novel emergent phenomena. The Zaletel group studies the physics of symmetry-breaking, band topology, correlated transport and superconductivity in these materials by employing both analytical and numerical tools.
 
 ## Tensor network methods for strongly correlated systems
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Tensor network methods allow for efficient representation and manipulation of quantum states on classial computers, yet the majority of work in this field has focused on ground state properties in one-dimension. Simulating dynamics, finite temperature systems, or systems in higher dimensions quickly becomes expensive and intractable with current methods, so the Zalelel group actively develops novel techniques to extend tensor networks to these currently limited domains. Of particular note is the Isometric Tensor Network (isoTNS) introduced in 2020 as a canonical form for tensor network states in two-dimensions.
 
 ## Quantum entanglement in many-body systems
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Nontrivial quantum phases of matter often comes with nontrivial quantum entanglement that can be used to understand the behavior of the system. The Zaletel group investigates various "entanglement measures", which we hope can be used to distinguish nontrivial phases, such as chiral topological orders, from each other. We also believe a better understanding of quantum entanglement will lead to more efficient numerical algorithms for quantum phases.
 
 ## Quantum simulation in AMO
 
-" With lil-Yao "
+Under construction.
 
+<!--
 
 ## Syntax
 
@@ -63,3 +64,6 @@ You can also insert file.
 \figalt{KIVC figure}{./figures/KIVC.PNG}
 
 There is a way to add citation with automatic styling, but that feels like too much work tbh.
+
+
+-->

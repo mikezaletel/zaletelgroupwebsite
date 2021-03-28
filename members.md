@@ -6,20 +6,21 @@
 @def tags = String[]
 
 # Members
-test
 
 ## PI
-\insertprofile{zaletel}{Mike Zaletel}{/publications}{mikezaletel (at) berkeley.edu}
+\insertprofile{zaletel}{Mike Zaletel}{https://physics.berkeley.edu/people/faculty/mike-zaletel}{mikezaletel (at) berkeley.edu}
 
 ## Postdocs
 
 \insertprofile{hauschild}{Johannes Hauschild}{https://johannes-hauschild.de/}{ website (at) johannes-hauschild.de }
 \insertprofile{chatterjee}{Shubhayu Chatterjee}{https://www.ocf.berkeley.edu/~chatterjee/}{ shubhayuchatterjee (at) berkeley.edu}
+\insertprofile{dai}{Zhehao Dai}{/members/dai}{ zhehao (at) berkeley.edu}
+\insertprofile{wu}{Yantao Wu}{/members/wu}{ yantaow (at) princeton.edu}
 
 ## Grad Students
 \insertprofile{hong}{Jung Pyo (JP) Hong}{/members/hong}{ jphong (at) princeton.edu}
 \insertprofile{siva}{Karthik Siva}{/members/siva}{ karthik_siva (at) berkeley.edu}
-\insertprofile{soejima}{Tomo Soejima}{/members/soejima}{tomohiro_soejima (at) berkeley.edu}
+\insertprofile{soejima}{Tomo Soejima}{https://tomohiro-soejima.github.io/}{tomohiro_soejima (at) berkeley.edu}
 \insertprofile{wang}{Tianle Wang}{/members/wang}{tianle_wang (at) berkeley.edu}
 \insertprofile{divic}{Stefan Divic}{/members/divic}{stefan_divic (at) berkeley.edu}
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
@@ -31,4 +32,5 @@ test
 
 ## Former members
 
-Under construction
+Nick Bultinck, Postdoc (2017 - 2020) - Postdoc, University of Oxford \\
+Ryan Mishmash, Postdoc (?) - Researcher, IBM

@@ -1,10 +1,9 @@
 @def title = "Publications"
 @def hascode = false
 @def date = Date(2019, 3, 22)
-@def rss = "group member description"
+@def rss = "Publications"
 
 @def tags = String[]
-
 
 ```julia:./ex1
 #hideall

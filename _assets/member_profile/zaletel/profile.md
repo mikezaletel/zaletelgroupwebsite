@@ -1,1 +1,1 @@
-This is where Mike will put his profile info.
+Mike's research focuses on theoretical condensed matter physics and its intersection with quantum information and computational approaches. He received an AA from Deep Springs College, an AB with highest honors in physics from Harvard University in 2009, and a Ph.D. at Berkeley working with Professor Joel Moore. In 2018, after a postdoctoral position in at Microsoft Research Station Q and a year as a faculty member at Princeton, he returned to Berkeley as the Thomas and Alison Schneider Chair in Physics.
