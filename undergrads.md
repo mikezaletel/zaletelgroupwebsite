@@ -7,4 +7,8 @@
 
 # Undergraduate projects
 
+## Ongoing Projects
 Under construction...
+
+## How To Get Involved
+Please see the "How to Join" page for guidance on how to get involved in research in our group!
