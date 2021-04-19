@@ -31,7 +31,7 @@ For instance:
 Defining prepath for my website
 -->
 
-@def prepath = "groupwebsite"
+@def prepath = "zaletelgroupwebsite"
 
 
 \newcommand{\insertprofile}[4]{
