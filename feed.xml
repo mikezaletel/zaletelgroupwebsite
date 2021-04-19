@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Zaletel group website  ]]>
+    </title>
+    <link> https://zaletelgroup.berkeley.edu </link>
+    <description>
+      <![CDATA[  Zaletel group website  ]]>
+    </description>
+    <atom:link
+      href="https://zaletelgroup.berkeley.edu/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Members  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/members/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/members/index.html </guid>
+  <description>
+    <![CDATA[  group member description  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Publications  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/publications/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/publications/index.html </guid>
+  <description>
+    <![CDATA[  Publications  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  How to Join  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/joingroup/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/joingroup/index.html </guid>
+  <description>
+    <![CDATA[  group member description  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Resaerch  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/research/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/research/index.html </guid>
+  <description>
+    <![CDATA[  Research stuff  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Undergrad project  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/undergrads/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/undergrads/index.html </guid>
+  <description>
+    <![CDATA[  Research stuff  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

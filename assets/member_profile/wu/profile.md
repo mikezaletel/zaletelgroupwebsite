@@ -1,0 +1,1 @@
+Yantao did his PhD study in Princeton University, where he worked on renormalization group algorithms in the context of Monte Carlo simulations. Lately, he has been interested in tensor network algorithms in two dimensions, quantum dynamics, and adiabatic quantum computing.

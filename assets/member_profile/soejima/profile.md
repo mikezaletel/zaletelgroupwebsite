@@ -1,0 +1,1 @@
+I am a third year graduate student working on numerical methods and twisted bilayer graphene. Originally from Japan, I came to US for college and studied chemistry and physics. After a brief stint in Stuttgart, Germany, I came to a good weather in 2018. In my free time, I like playing Shogi (a Japanese chess of sorts), other board games, and singing.

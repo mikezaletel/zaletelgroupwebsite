@@ -1,0 +1,1 @@
+I'm interested in strongly correlated quantum many-body systems both in and out of equilibrium. I also developed a passion for numerical techniques to study these systems, in particular tensor network methods. This resulted in the development of the Tensor Network Python (TeNPy) library, of which I am the main developer.

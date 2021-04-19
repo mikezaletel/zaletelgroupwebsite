@@ -1,0 +1,4 @@
+Sitemap: https://zaletelgroup.berkeley.edu/sitemap.xml
+
+User-agent: *
+Disallow:
