@@ -41,7 +41,7 @@ Defining prepath for my website
 <img class="left" src="/assets/member_profile/!#1/picture.jpg" alt="profile picture"  style="width:30%;height:auto;">
 ~~~
 @@
-[**!#2**](#3)
+[**!#2**](!#3)
 ~~~<br>~~~email:#4
 
 \textinput{/assets/member_profile/!#1/profile}
