@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Zaletel group website  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://zaletelgroup.berkeley.edu </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Zaletel group website  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://zaletelgroup.berkeley.edu/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
