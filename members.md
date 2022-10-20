@@ -32,5 +32,10 @@
 
 ## Former members
 
+### Postdocs
 Nick Bultinck, Postdoc (2017 - 2020) - Postdoc, University of Oxford \\
 Ryan Mishmash, Postdoc (?) - Researcher, IBM
+
+### Graduate students
+
+### Undergraduate students
