@@ -18,7 +18,7 @@
 
 In order to update your profile, create `_assets/member_profile/yourname`  folder containing `picture.png` and `profile.md`. You can use standard Markdown and LaTeX-like syntax in `profile.md`. Check out the sample `iguana/profile.md`.
 
-Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{yoururl}{your (at) email.address}` at an appropriate place. `yoururl` is the url of your personal website, or the path of your personal page within the group website, as described below.
+Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{yoururl}{your (at) email.address}` inside `members/md`. `yoururl` is the url of your personal website, or the path to your personal page within the group website, as described below.
 
 ### Creating your own page
 
