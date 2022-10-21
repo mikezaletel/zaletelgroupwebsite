@@ -14,7 +14,7 @@
 
 ### General usage
 
-The best way to update your profile is via creating a pull request. You will need to fork this repo, make modifications in your fork, and then make a pull request to this repo. 
+The best way to update your profile is via creating a pull request. You will need to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo, make modifications in your fork, and then make a pull request to this repo. You can find details on how to do this on many GitHub tutorial pages.
 
 ### Profile update
 
