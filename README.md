@@ -22,10 +22,11 @@ The best way to update your profile is via creating a pull request. You will nee
 
 In order to update your profile, create `_assets/member_profile/yourname`  folder containing `picture.png` and `profile.md`. You can use standard Markdown and LaTeX-like syntax in `profile.md`. Check out the sample `iguana/profile.md`.
 
-Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{yoururl}{your (at) email.address}` inside `members/md`. `yoururl` is the url of your personal website, or the path to your personal page within the group website, as described below.
+Once you are done creating the folder, put `\insertprofile{yourname}{Your Name}{yoururl}{your (at) email.address}` inside `members.md`. `yoururl` is the url of your personal website, or the path to your personal page within the group website, as described below.
 
 ### Creating your own page
 
+This step is optional.
 If you do not have a personal website, you can host a mini personal website within the group website.
 Create `/members/yourname/index.md`. And start populating it with Markdown. You can write whatever you want there, but the following macros will give you a good default landing page:
 
