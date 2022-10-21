@@ -12,6 +12,10 @@
 
 ## Usage
 
+### General usage
+
+The best way to update your profile is via creating a pull request. You will need to fork this repo, make modifications in your fork, and then make a pull request to this repo. 
+
 ### Profile update
 
 **subject to change**
