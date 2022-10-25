@@ -11,7 +11,7 @@
 
 ## Topological phases in 2D materials
 
-Under construction.
+We are very lucky that 2D materials are both extremely interesting and practically accesible. On the one hand, 2D is special because the 2+1D spacetime trajectories of simple point particles trace out braids and knots (knots can be untied in dimensions higher than 3). This allows for interesting topological phases of matter to arise in which point-particles  carry fractionalized quantum statistics; and even better, these phases emerge in very relevant Hamiltonians like those which govern the quantum Hall effect. On the other hand, we can make 2D materials in the lab (for example in GaAs quantum wells, or more recently graphene), and experimentally poke around "inside" the 2D bulk since we live in one higher dimension. Recently we've been thinking about alot about fractional quantum Hall physics in graphene, including close collaboration with the Young Lab at UCSB, as well as frustrated quantum magnets like the Kagome spin liquid, triangular lattice Hubbard model, and Rydberg atom simulators.  One big goal is to help demonstralding a topologically-protected qubit.non bui-Abelian statistics in the la, and use this as the basis for
 
 ## Twisted bilayer graphene and other Moire systems
 
