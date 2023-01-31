@@ -1,0 +1,1 @@
+I am a thrid year graduate student studying various moiré systems and fractional quantum Hall systems with numerical methods. I was born in Germany, grew up in China, and came to US for college. Outside research, I enjoy reading novels, going to concert and baking desserts.
