@@ -1,6 +1,6 @@
 @def title = "How to Join"
 @def hascode = false
-@def date = Date(2019, 3, 22)
+@def date = Date(2023, 1, 30)
 @def rss = "group member description"
 
 @def tags = String[]
@@ -8,7 +8,9 @@
 # How to Join
 
 ## Postdoctoral Scholars and Graduate Students
-Under construction...
+Graduate admissions are handled by the Physics department through the standard process (https://physics.berkeley.edu/academic/graduate-degree/graduate-admissions). Admitted applicants will be invited to visit the department in late March, early April. During the Open House, you can meet with Mike and current group members to learn about our work.
+
+Interested postdocs should reach out to the group PI.
 <!-- MIKE SHOULD EDIT THIS.
 See members page for contact information. Interested graduate students and and postdoctoral scholars should reach out to the group PI.-->
 
