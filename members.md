@@ -12,8 +12,6 @@
 
 ## Postdocs
 
-\insertprofile{hauschild}{Johannes Hauschild}{https://johannes-hauschild.de/}{ website (at) johannes-hauschild.de }
-\insertprofile{chatterjee}{Shubhayu Chatterjee}{https://www.ocf.berkeley.edu/~chatterjee/}{ shubhayuchatterjee (at) berkeley.edu}
 \insertprofile{dai}{Zhehao Dai}{/members/dai}{ zhehao (at) berkeley.edu}
 \insertprofile{wu}{Yantao Wu}{/members/wu}{ yantaow (at) princeton.edu}
 
@@ -27,15 +25,12 @@
 
 ## Undergraduates
 
-\insertprofile{yu}{Xuyang Yu}{/members/yu}{xuyangy1505 (at) berkeley.edu}
 \insertprofile{ravindran}{Vibhu Ravindran}{/members/ravindran}{ vibhu.ravindran (at) berkeley.edu }
 
 ## Former members
 
-### Postdocs
 Nick Bultinck, Postdoc (2017 - 2020) - Postdoc, University of Oxford \\
-Ryan Mishmash, Postdoc (?) - Researcher, IBM
-
-### Graduate students
-
-### Undergraduate students
+Ryan Mishmash, Postdoc (?) - Researcher, Microsoft
+Xuyang Yu, Undergrad (2020-2022) - Graduate Student, UCSB
+Johannes Hauschild, Postdoc (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley.
+Shubhayu Chatterjee, Postdoc (2018 - 2022) - Assistant Professor, Carnegie Mellon University
