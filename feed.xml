@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  How to Join  ]]>
+  </title>
+  <link> https://zaletelgroup.berkeley.edu/joingroup/index.html </link>
+  <guid> https://zaletelgroup.berkeley.edu/joingroup/index.html </guid>
+  <description>
+    <![CDATA[  group member description  ]]>
+  </description>  
+    
+  <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Zaletel group</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Members  ]]>
   </title>
   <link> https://zaletelgroup.berkeley.edu/members/index.html </link>
@@ -48,25 +67,6 @@
   <guid> https://zaletelgroup.berkeley.edu/publications/index.html </guid>
   <description>
     <![CDATA[  Publications  ]]>
-  </description>  
-    
-  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Zaletel group</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  How to Join  ]]>
-  </title>
-  <link> https://zaletelgroup.berkeley.edu/joingroup/index.html </link>
-  <guid> https://zaletelgroup.berkeley.edu/joingroup/index.html </guid>
-  <description>
-    <![CDATA[  group member description  ]]>
   </description>  
     
   <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
