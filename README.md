@@ -49,7 +49,7 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 3. In the REPL, do the following
 ```julia
 julia> using Pkg
-julia> Pkg.activate() # make sure it activates to "groupwebsite"
+julia> Pkg.activate(".") # make sure it activates to "zaletelgroupwebsite"
 julia> Pkg.instantiate()
 julia> using Franklin
 julia> serve(port=8888) # choose a port number you like
