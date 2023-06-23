@@ -42,15 +42,23 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 
 `yoururl` of the resulting page is `/members/yourname/`.
 
+### Setting up your Franklin environment
+We want to set up a julia environment that has necessary packages. ([See here](https://julialang-s3.julialang.org/bin/linux/x64/1.9/julia-1.9.1-linux-x86_64.tar.gz)).
+To do so, navigate to `zaletelgroupwebsite` folder and launch `julia`. And then run
+```julia
+julia> using Pkg
+julia> Pkg.activate(".") # make sure it activates to "zaletelgroupwebsite"
+julia> Pkg.instantiate()
+julia> exit()
+```
+This will initialize your environment.
+
 ### How to launch a Franklin server
 
 1. Install most recent version of [Julia](https://julialang.org/downloads/).
 2. Navigate to the repository and launch `julia`.
 3. In the REPL, do the following
 ```julia
-julia> using Pkg
-julia> Pkg.activate(".") # make sure it activates to "zaletelgroupwebsite"
-julia> Pkg.instantiate()
 julia> using Franklin
 julia> serve(port=8888) # choose a port number you like
 ```
@@ -58,6 +66,10 @@ julia> serve(port=8888) # choose a port number you like
 This launches a server at the specified port. You can portforward it and access the server via your browser. The server live-updates its content, so you can edit files and see changes in real time.
 
 If you introduce parsing errors, the server stops running. You can call `serve()` again after fixing the errors.
+
+### Common mistakes
+
+When running `serve()` to debug, you might notice the website does not change as expected. In that case, try deleting the content of `__site` and run `serve()` again. `__site` is not always updated in real time.
 
 ### Other things
 
