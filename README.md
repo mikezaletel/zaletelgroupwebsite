@@ -1,14 +1,14 @@
 # Group website
 
 ## To-do
-- make member page look nicer -> Add former group members table with picture and next appointment.
-- Format the publications page better
-    - Format the publications
-- Create undergraduate project page
-- Better documentation
-- Scraping from more webpages (ORCID? arXiv search results?)
-- Make the main page better
-- overall aesthetic adjustment (it looks too much like the template)
+- [ ] make member page look nicer -> Add former group members table with picture and next appointment.
+- [ ] Better documentation
+- [ ] Scraping from more webpages (ORCID? arXiv search results?)
+- [ ] overall aesthetic adjustment (it looks too much like the template)
+
+- [x] Create undergraduate project page
+- [x] Format the publications page better
+- [x] Make the main page better
 
 ## Usage
 
