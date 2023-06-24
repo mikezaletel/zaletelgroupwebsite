@@ -3,7 +3,7 @@
 ## To-do
 - [ ] make member page look nicer -> Add former group members table with picture and next appointment.
 - [ ] Better documentation
-- [ ] Scraping from more webpages (ORCID? arXiv search results?)
+- [ ] _Scraping from more webpages (ORCID? arXiv search results?)_
 - [ ] overall aesthetic adjustment (it looks too much like the template)
 
 - [x] Create undergraduate project page
