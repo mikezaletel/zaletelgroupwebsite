@@ -69,7 +69,7 @@ If you introduce parsing errors, the server stops running. You can call `serve()
 
 ### Common mistakes
 
-When running `serve()` to debug, you might notice the website does not change as expected. In that case, try deleting the content of `__site` and run `serve()` again. `__site` is not always updated in real time.
+When running `serve()` to debug, you might notice the website does not change as expected. In that case, try running `serve(…, clear=true)`, which deletes the content of `__site` and run `serve()` again. `__site` is not always updated in real time.
 
 ### Other things
 
