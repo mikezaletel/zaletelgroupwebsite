@@ -26,6 +26,7 @@ If you are interested in tensor network projects, a great first reference is [th
 More advanced/detailed material:
 1. [Isometric Tensor Network](https://arxiv.org/abs/2112.08394)
 2. [Standard density matrix renormalization group review](https://arxiv.org/abs/1008.3477)
+
 Should you have a headache with papers, there are also many online resources you can go to, such as [tensors.net](https://www.tensors.net/) and [tensornetwork.org](https://tensornetwork.org/).
 
 For strongly correlated electron projects, take a look at the following resources.
