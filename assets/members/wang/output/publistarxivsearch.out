@@ -1,5 +1,14 @@
-## 2022 
-\publishedarticle{1}{Kekulé spiral order in magic-angle graphene: a density matrix renormalization group study}{Tianle Wang, Daniel E. Parker, Tomohiro Soejima, Johannes Hauschild, Sajant Anand, Nick Bultinck, Michael P. Zaletel}{2211.02693}{}
-## 2020 
-\publishedarticle{2}{Flat band topology of magic angle graphene on a transition metal dichalcogenide}{Tianle Wang, Nick Bultinck, Michael P. Zaletel}{2008.06528}{Phys. Rev. B 102, 235146 (2020)}
+HTTP.RequestError:
+HTTP.Request:
+HTTP.Messages.Request:
+"""
+GET /search/cond-mat?query=Wang%2C+Tianle&searchtype=author&abstracts=show&order=-announced_date_first&size=200 HTTP/1.1
+Host: arxiv.org
+Accept: */*
+User-Agent: HTTP.jl/1.9.1
+Content-Length: 0
+Accept-Encoding: gzip
+Cookie: arxiv-search-parameters={}; browser=172.176.238.31.1698802507887868
 
+"""Underlying error:
+IOError: unexpected EOF
