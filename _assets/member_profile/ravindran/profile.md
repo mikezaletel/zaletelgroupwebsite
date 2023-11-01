@@ -1,1 +1,1 @@
-I am a second year undergraduate at Berkeley intending to major in math and physics. I am interested in condensed matter theory and mathematical physics. Outside of academics I like to play the violin and go on hikes.
+I am a fourth year undergraduate at Berkeley majoring in math and physics. I am currently working on tensor network methods for critical systems but am also interested in a wide range of topics spanning condensed matter theory, generalized symmetries and quantum information. Outside of academics I like to play the violin, read science fiction and go on hikes.
