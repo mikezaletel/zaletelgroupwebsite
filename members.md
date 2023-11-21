@@ -37,3 +37,7 @@ Ryan Mishmash, Postdoc (?) - Researcher, Microsoft \\
 Xuyang Yu, Undergrad (2020-2022) - Graduate Student, UCSB \\
 Johannes Hauschild, Postdoc (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley. \\
 Shubhayu Chatterjee, Postdoc (2018 - 2022) - Assistant Professor, Carnegie Mellon University
+
+## Group photos
+
+![2021-03-20](/assets/group_photo_032021.jpg)
