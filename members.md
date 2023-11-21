@@ -40,4 +40,4 @@ Shubhayu Chatterjee, Postdoc (2018 - 2022) - Assistant Professor, Carnegie Mello
 
 ## Group photos
 
-![2021-03-20](/assets/group_photo_032021.jpg)
+![2021-03-20](/_assets/group_photo_032021.jpg)
