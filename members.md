@@ -14,7 +14,7 @@
 
 \insertprofile{dai}{Zhehao Dai}{/members/dai}{ zhehao (at) berkeley.edu}
 \insertprofile{wu}{Yantao Wu}{/members/wu}{ yantaow (at) princeton.edu}
-\insertprofile{andrews}{Bart Andrews}{http://www.bartholomewandrews.com/}{bandrews (at) berkeley.edu}
+\insertprofile{andrews}{Bart Andrews}{https://bartandrews.me}{bandrews (at) berkeley.edu}
 
 ## Grad Students
 \insertprofile{hong}{Jung Pyo (JP) Hong}{/members/hong}{ jphong (at) princeton.edu}
