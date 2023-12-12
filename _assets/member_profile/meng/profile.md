@@ -1,0 +1,1 @@
+I'm a fourth-year undergraduate studying physics and computer science. I am interested in leveraging computational methods to tackle intricate problems in condensed matter physics. In my free time, I like to cook and explore tasty food spots around Berkeley. I also enjoy playing guitar and engaging in outdoor activities such as badminton and hiking.

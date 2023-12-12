@@ -8,6 +8,7 @@
 # Members
 
 ## PI
+
 \insertprofile{zaletel}{Mike Zaletel}{https://physics.berkeley.edu/people/faculty/mike-zaletel}{mikezaletel (at) berkeley.edu}
 
 ## Postdocs
@@ -17,6 +18,7 @@
 \insertprofile{andrews}{Bart Andrews}{https://bartandrews.me}{bandrews (at) berkeley.edu}
 
 ## Grad Students
+
 \insertprofile{hong}{Jung Pyo (JP) Hong}{/members/hong}{ jphong (at) princeton.edu}
 \insertprofile{siva}{Karthik Siva}{/members/siva}{ karthik_siva (at) berkeley.edu}
 \insertprofile{soejima}{Tomo Soejima}{https://tomohiro-soejima.github.io/}{tomohiro_soejima (at) berkeley.edu}
@@ -25,10 +27,10 @@
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 
-
 ## Undergraduates
 
 \insertprofile{ravindran}{Vibhu Ravindran}{/members/ravindran}{ vibhu.ravindran (at) berkeley.edu }
+\insertprofile{meng}{Howard Meng}{/members/meng}{howardm12138 (at) berkeley.edu}
 
 ## Former members
 
