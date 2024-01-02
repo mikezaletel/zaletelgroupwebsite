@@ -34,7 +34,7 @@
 <!---
 [link to xyz mini-website?](/members/xyz)
 -->
-[Jung Pyo (JP) Hong]{/members/hong}, Grad (2015 - 2023) - \\
+[Jung Pyo (JP) Hong](/members/hong), Grad (2015 - 2023) - \\
 [Karthik Siva](https://ksksks1.github.io/), Grad (2017 - 2023) - Research scientist, IBM \\
 [Tomo Soejima](https://tomohiro-soejima.github.io/), Grad (2018 - 2023) - Postdoc, Harvard University \\
 [Daniel Parker](https://danielericparker.github.io/), Postdoc (2023) - Assistant Professor, UCSD \\
