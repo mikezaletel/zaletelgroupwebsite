@@ -2,4 +2,4 @@
 
 # Publications
 
-\publistarxivsearch{https://arxiv.org/search/?query=Yantao+Wu&searchtype=author&source=header}
+\publistarxivsearch{https://arxiv.org/search/?query=Wu%2C+Yantao&searchtype=author&source=header}
