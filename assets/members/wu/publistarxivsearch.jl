@@ -1,7 +1,7 @@
 # This file was generated, do not modify it. # hide
 #hideall
 using Cascadia, Gumbo, HTTP, Dates
-url = "https://arxiv.org/search/?query=Yantao+Wu&searchtype=author&source=header"
+url = "https://arxiv.org/search/?query=Wu%2C+Yantao&searchtype=author&source=header"
 r = HTTP.get(url)
 h = parsehtml(String(r.body))
 sm = Selector(".arxiv-result")
