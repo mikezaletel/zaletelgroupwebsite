@@ -20,7 +20,7 @@
 ## Grad Students
 
 \insertprofile{hong}{Jung Pyo (JP) Hong}{/members/hong}{ jphong (at) princeton.edu}
-\insertprofile{siva}{Karthik Siva}{/members/siva}{ karthik_siva (at) berkeley.edu}
+\insertprofile{siva}{Karthik Siva}{https://ksksks1.github.io/}{karthik_siva (at) berkeley.edu}
 \insertprofile{soejima}{Tomo Soejima}{https://tomohiro-soejima.github.io/}{tomohiro_soejima (at) berkeley.edu}
 \insertprofile{wang}{Tianle Wang}{/members/wang}{tianle_wang (at) berkeley.edu}
 \insertprofile{divic}{Stefan Divic}{/members/divic}{stefan_divic (at) berkeley.edu}
