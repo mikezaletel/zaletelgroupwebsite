@@ -34,6 +34,7 @@
 
 ## Former members
 
+[Test](/members/wang), \\
 [Tomo Soejima](https://tomohiro-soejima.github.io/), Grad (2018-2023) - Postdoc, Harvard University \\
 Nick Bultinck, Postdoc (2017 - 2020) - Postdoc, University of Oxford \\
 Ryan Mishmash, Postdoc (?) - Researcher, Microsoft \\
