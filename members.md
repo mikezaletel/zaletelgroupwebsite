@@ -19,9 +19,6 @@
 
 ## Grad Students
 
-\insertprofile{hong}{Jung Pyo (JP) Hong}{/members/hong}{ jphong (at) princeton.edu}
-\insertprofile{siva}{Karthik Siva}{https://ksksks1.github.io/}{karthik_siva (at) berkeley.edu}
-\insertprofile{soejima}{Tomo Soejima}{https://tomohiro-soejima.github.io/}{tomohiro_soejima (at) berkeley.edu}
 \insertprofile{wang}{Tianle Wang}{/members/wang}{tianle_wang (at) berkeley.edu}
 \insertprofile{divic}{Stefan Divic}{/members/divic}{stefan_divic (at) berkeley.edu}
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
@@ -34,20 +31,25 @@
 
 ## Former members
 
-[Test](/members/wang), \\
-[Tomo Soejima](https://tomohiro-soejima.github.io/), Grad (2018-2023) - Postdoc, Harvard University \\
+<!---
+[link to xyz mini-website?](/members/xyz)
+-->
+[Jung Pyo (JP) Hong]{/members/hong}, Grad (2015 - 2023) - \\
+[Karthik Siva](https://ksksks1.github.io/), Grad (2017 - 2023) - Research scientist, IBM \\
+[Tomo Soejima](https://tomohiro-soejima.github.io/), Grad (2018 - 2023) - Postdoc, Harvard University \\
+[Daniel Parker](https://danielericparker.github.io/), Postdoc (2023) - Assistant Professor, UCSD \\
+Xuyang Yu, Undergrad (2020 - 2022) - Graduate Student, UCSB \\
+Shubhayu Chatterjee, Postdoc (2018 - 2022) - Assistant Professor, Carnegie Mellon University \\
+Johannes Hauschild, Postdoc (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley \\
 Nick Bultinck, Postdoc (2017 - 2020) - Postdoc, University of Oxford \\
 Ryan Mishmash, Postdoc (?) - Researcher, Microsoft \\
-Xuyang Yu, Undergrad (2020-2022) - Graduate Student, UCSB \\
-Johannes Hauschild, Postdoc (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley. \\
-Shubhayu Chatterjee, Postdoc (2018 - 2022) - Assistant Professor, Carnegie Mellon University
 
 ## Group photos
-
-2021-12 Group Dinner
-
-![2021-12-13](/assets/group_photo_121321.jpg)
 
 2023-10 Group Hike
 
 ![2023-10-31](/assets/group_photo_103123.jpg)
+
+2021-12 Group Dinner
+
+![2021-12-13](/assets/group_photo_121321.jpg)
