@@ -16,7 +16,7 @@
 \insertprofile{dai}{Zhehao Dai}{/members/dai}{ zhehao (at) berkeley.edu}
 \insertprofile{wu}{Yantao Wu}{/members/wu}{ yantaow (at) princeton.edu}
 \insertprofile{andrews}{Bart Andrews}{https://bartandrews.me}{bandrews (at) berkeley.edu}
-\insertprofilepage{ruihua_fan}{Ruihua Fan}{ruihua_fan (at) berkeley.edu}
+\insertprofile{ruihua_fan}{Ruihua Fan}{/members/ruihua_fan}{ruihua_fan (at) berkeley.edu}
 \insertprofile{ethan_lake}{Ethan Lake}{https://ethanlake.github.io/index.html}{elake (at) berkeley.edu}
 \insertprofile{jong_yeon_lee}{Jong Yeon Lee}{https://physics.illinois.edu/people/directory/profile/jongyeon}{jongyeon (at) berkeley.edu}
 
@@ -26,7 +26,7 @@
 \insertprofile{divic}{Stefan Divic}{/members/divic}{stefan_divic (at) berkeley.edu}
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
-\insertprofilepage{gabriel_woolls}{Gabriel Woolls}{gwoolls (at) berkeley.edu}
+\insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
 
 ## Undergraduates
 
