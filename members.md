@@ -1,6 +1,6 @@
 @def title = "Members"
 @def hascode = false
-@def date = Date(2019, 3, 22)
+@def date = Date(2024, 1, 22)
 @def rss = "group member description"
 
 @def tags = String[]
