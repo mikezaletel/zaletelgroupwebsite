@@ -42,25 +42,6 @@
 
 <item>
   <title>
-    <![CDATA[  Members  ]]>
-  </title>
-  <link> https://zaletelgroup.berkeley.edu/members/index.html </link>
-  <guid> https://zaletelgroup.berkeley.edu/members/index.html </guid>
-  <description>
-    <![CDATA[  group member description  ]]>
-  </description>  
-    
-  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Zaletel group</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Publications  ]]>
   </title>
   <link> https://zaletelgroup.berkeley.edu/publications/index.html </link>
