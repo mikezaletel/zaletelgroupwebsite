@@ -42,7 +42,7 @@
 [Daniel Parker](https://danielericparker.github.io/) (2023) - Assistant Professor, UCSD \\
 Shubhayu Chatterjee (2018 - 2022) - Assistant Professor, Carnegie Mellon University \\
 Johannes Hauschild (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley \\
-Nick Bultinck (2017 - 2020) - Postdoc, University of Oxford \\
+Nick Bultinck (2017 - 2020) - Professor, Ghent University \\
 Ryan Mishmash (2018 - 2019) - Researcher, Microsoft \\
 
 *Grad students:* \\
@@ -54,6 +54,8 @@ Ryan Mishmash (2018 - 2019) - Researcher, Microsoft \\
 Xuyang Yu (2020 - 2022) - Graduate Student, UCSB \\
 
 ## Group photos
+2023-12 Group Dinner\\
+![2023-12-12](/assets/group_photo_121223.jpg)
 
 2023-10 Group Hike\\
 ![2023-10-31](/assets/group_photo_103123.jpg)
