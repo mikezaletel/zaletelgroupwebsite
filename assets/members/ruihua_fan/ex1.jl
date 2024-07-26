@@ -1,44 +1,39 @@
 # This file was generated, do not modify it. # hide
 #hideall
 using Cascadia, Gumbo, HTTP, Dates
-url = "https://arxiv.org/search/cond-mat?query=Fan%2C+Ruihua&searchtype=author&abstracts=show&order=-announced_date_first&size=200"
-r = HTTP.get(url)
+r = HTTP.get("https://arxiv.org/a/0000-0003-0511-2581.html")
 h = parsehtml(String(r.body))
-sm = Selector(".arxiv-result")
-articles = eachmatch(sm, h.root)
+sm = Selector(".mathjax")
+articles = filter(node->getattr(node, "class")=="mathjax", eachmatch(sm, h.root))
 
 function getauthors(article)
-    sm = Selector(".authors")
+    sm = Selector(".list-authors")
     raw_authors = eachmatch(sm, article) |> only
     authors = [children(author)[1] |> text |> strip for author in children(raw_authors) if author isa HTMLElement{:a}]
     return authors
 end
-
 function gettitle(article)
-    sm = Selector(".title")
+    sm = Selector(".list-title")
     raw_title = eachmatch(sm, article) |> only
-    title = raw_title |> text |> strip
+    title = raw_title[2] |> text |> strip
     return title
 end
-
 function getarxiv(article)
-    sm = Selector(".list-title")
+    sm = Selector(".list-identifier")
     raw_arxiv = eachmatch(sm, article) |> only
     arxiv = getattr(raw_arxiv[1], "href") |> strip
-    return arxiv[23:end]
+    return arxiv[6:end]
 end
 
 function getjournalref(article)
-    sm = Selector(".comments")
+    sm = Selector(".list-journal-ref")
     raw_journal = eachmatch(sm, article)
-
-    for item in raw_journal
-        if startswith(text(item), "Journal")
-            return text(item)[16:end] |> strip
-        end
+    if isempty(raw_journal)
+        return ""
     end
-
-    return ""
+    raw_journal = raw_journal |> only
+    journal = raw_journal[2] |> text |> strip
+    return journal
 end
 
 authors = getauthors.(articles)
