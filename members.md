@@ -13,12 +13,8 @@
 
 ## Postdocs
 
-\insertprofile{dai}{Zhehao Dai}{/members/dai}{ zhehao (at) berkeley.edu}
-\insertprofile{wu}{Yantao Wu}{/members/wu}{ yantaow (at) princeton.edu}
-\insertprofile{andrews}{Bart Andrews}{https://bartandrews.me}{bandrews (at) berkeley.edu}
 \insertprofile{ruihua_fan}{Ruihua Fan}{/members/ruihua_fan}{ruihua_fan (at) berkeley.edu}
 \insertprofile{ethan_lake}{Ethan Lake}{https://ethanlake.github.io/index.html}{elake (at) berkeley.edu}
-\insertprofile{jong_yeon_lee}{Jong Yeon Lee}{https://physics.illinois.edu/people/directory/profile/jongyeon}{jongyeon (at) berkeley.edu}
 
 ## Grad Students
 
@@ -27,7 +23,7 @@
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 \insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
-\insertprofile{jahanbani}{Shahin Jahanbani}{/members/jahanbani}{ shahin_jahanbani (at) berkeley.edu }
+\insertprofile{jahanbani}{Shahin Jahanbani}{https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en}{ shahin_jahanbani (at) berkeley.edu }
 
 ## Undergraduates
 
@@ -40,7 +36,12 @@
 [link to xyz mini-website?](/members/xyz)
 -->
 *Postdocs:* \\
-[Daniel Parker](https://danielericparker.github.io/) (2023) - Assistant Professor, UCSD \\
+
+[Yantao Wu](/members/wu) (2021-2024) - Researcher, Institute of Physics, Chinese Academy of Sciences \\
+[Zhehao Dai](/members/dai) (2020-2024) - Assistant Professor, University of Pittsburgh \\
+[Jong Yeon Lee](https://physics.illinois.edu/people/directory/profile/jongyeon) (2023-2024) - Assistant Professor, University of Illinois Urbana-Champaign \\
+[Bart Andrews](https://bartandrews.me) (2022-2024) - Postdoc, ETH Zurich \\
+[Daniel Parker](https://danielericparker.github.io/) (2023) - Assistant Professor, University of California, San Diego \\
 Shubhayu Chatterjee (2018 - 2022) - Assistant Professor, Carnegie Mellon University \\
 Johannes Hauschild (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley \\
 Nick Bultinck (2017 - 2020) - Professor, Ghent University \\
