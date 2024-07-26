@@ -27,6 +27,7 @@
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 \insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
+\insertprofile{jahanbani}{Shahin Jahanbani}{/members/jahanbani}{ shahin_jahanbani (at) berkeley.edu }
 
 ## Undergraduates
 
