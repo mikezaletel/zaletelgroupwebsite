@@ -2,4 +2,4 @@
 
 # Publication
 
-\publistarxivsearch{https://arxiv.org/search/cond-mat?query=Fan%2C+Ruihua&searchtype=author&abstracts=show&order=-announced_date_first&size=200}
+\publist{https://arxiv.org/a/0000-0003-0511-2581.html}
