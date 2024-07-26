@@ -1,1 +1,1 @@
-
+I’m a Physics PhD student at Berkeley. My current research involves tensor network methods and their applications in studying emergent quantum many-body phenomena. You can check my recent publications on my Google Scholar page: https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en
