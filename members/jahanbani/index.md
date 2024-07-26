@@ -1,4 +1,4 @@
-\insertprofilepage{WEBNAME}{FULLNAME}{ EMAIL (at) berkeley.edu }
+\insertprofilepage{jahanbani}{Shahin Jahanbani}{ shahin_jahanbani (at) berkeley.edu }
 
 # Publication
 
