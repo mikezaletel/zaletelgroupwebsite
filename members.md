@@ -42,18 +42,19 @@
 [Jong Yeon Lee](https://physics.illinois.edu/people/directory/profile/jongyeon) (2023-2024) - Assistant Professor, University of Illinois Urbana-Champaign \\
 [Bart Andrews](https://bartandrews.me) (2022-2024) - Postdoc, ETH Zurich \\
 [Daniel Parker](https://danielericparker.github.io/) (2023) - Assistant Professor, University of California, San Diego \\
-Shubhayu Chatterjee (2018 - 2022) - Assistant Professor, Carnegie Mellon University \\
-Johannes Hauschild (2019 - 2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley \\
-Nick Bultinck (2017 - 2020) - Professor, Ghent University \\
-Ryan Mishmash (2018 - 2019) - Researcher, Microsoft \\
+Shubhayu Chatterjee (2018-2022) - Assistant Professor, Carnegie Mellon University \\
+Johannes Hauschild (2019-2022) - Postdoc, TMU. Project coordinator, the Munich Quantum Valley \\
+Nick Bultinck (2017-2020) - Professor, Ghent University \\
+Ryan Mishmash (2018-2019) - Researcher, Microsoft \\
 
 *Grad students:* \\
-[Jung Pyo (JP) Hong](/members/hong) (2015 - 2023)\\
-[Karthik Siva](https://ksksks1.github.io/) (2017 - 2023) - Research scientist, IBM \\
-[Tomo Soejima](https://tomohiro-soejima.github.io/) (2018 - 2023) - Postdoc, Harvard University \\
+[Jung Pyo (JP) Hong](/members/hong) (2015-2023)\\
+[Karthik Siva](https://ksksks1.github.io/) (2017-2023) - Research scientist, IBM \\
+[Tomo Soejima](https://tomohiro-soejima.github.io/) (2018-2023) - Postdoc, Harvard University \\
 
 *Undergraduates:* \\
-Xuyang Yu (2020 - 2022) - Graduate Student, UCSB \\
+Minxuan Wang (2023-2024) - Graduate, Student, Princeton University \\
+Xuyang Yu (2020-2022) - Graduate Student, University of California, Santa Barbara \\
 
 ## Group photos
 2023-12 Group Dinner\\
