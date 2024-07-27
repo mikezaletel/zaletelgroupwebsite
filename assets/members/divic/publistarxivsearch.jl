@@ -1,7 +1,7 @@
 # This file was generated, do not modify it. # hide
 #hideall
 using Cascadia, Gumbo, HTTP, Dates
-url = "https://arxiv.org/search/cond-mat?query=stefan+divic&searchtype=author&abstracts=show&order=-announced_date_first&size=200"
+url = "https://arxiv.org/search/cond-mat?query=Stefan+Divic&searchtype=author&abstracts=show&order=-announced_date_first&size=200"
 r = HTTP.get(url)
 h = parsehtml(String(r.body))
 sm = Selector(".arxiv-result")
