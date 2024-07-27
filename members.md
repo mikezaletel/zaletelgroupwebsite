@@ -15,6 +15,7 @@
 
 \insertprofile{ruihua_fan}{Ruihua Fan}{/members/ruihua_fan}{ruihua_fan (at) berkeley.edu}
 \insertprofile{ethan_lake}{Ethan Lake}{https://ethanlake.github.io/index.html}{elake (at) berkeley.edu}
+\insertprofile{zhihuan_dong}{Zhihuan Dong}{/members/zhihuan_dong}{ (at) berkeley.edu}
 
 ## Grad Students
 
@@ -23,7 +24,7 @@
 \insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 \insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
-\insertprofile{jahanbani}{Shahin Jahanbani}{https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en}{ shahin_jahanbani (at) berkeley.edu }
+\insertprofile{shahin_jahanbani}{Shahin Jahanbani}{https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en}{ shahin_jahanbani (at) berkeley.edu }
 
 ## Undergraduates
 
