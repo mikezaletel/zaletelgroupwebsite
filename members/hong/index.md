@@ -1,5 +1,5 @@
 \insertprofilepage{hong}{Jung Pyo (JP) Hong}{ jphong (at) princeton.edu }
 
-<!-- # Publications -->
+# Publications
 
-<!-- \publist{https://arxiv.org/a/soejima_t_1.html} -->
+\publistarxivsearch{https://arxiv.org/search/cond-mat?query=Jung+Pyo+Hong&searchtype=author&abstracts=show&order=-announced_date_first&size=200}
