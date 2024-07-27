@@ -1,5 +1,5 @@
 \insertprofilepage{divic}{Stefan Divic}{ stefan_divic (at) berkeley.edu }
 
-<!--# Publications-->
+# Publications
 
-<!-- \publist{https://arxiv.org/a/soejima_t_1.html} -->
+\publistarxivsearch{https://arxiv.org/search/cond-mat?query=stefan+divic&searchtype=author&abstracts=show&order=-announced_date_first&size=200}
