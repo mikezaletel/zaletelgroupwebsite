@@ -1,1 +1,1 @@
-
+My research aims to unravel insights into interplay between interactions, kinetic energy and band topology. One of the settings where all these elements are present is the moir\'e structures, which has been studied intensely over the last few years. To make progress in this field, I apply and develop theoretical and numerical tools adapted to the problems.
