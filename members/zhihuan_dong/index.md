@@ -1,6 +1,5 @@
-\insertprofilepage{WEBNAME}{FULLNAME}{ EMAIL (at) berkeley.edu }
+\insertprofilepage{zhihuan_dong}{Zhihuan Dong}{ (at) berkeley.edu }
 
 # Publication
 
-\publist{PERM_LINK}
-\publistarxivsearch{https://arxiv.org/search/cond-mat?query=NAME&searchtype=author&abstracts=show&order=-announced_date_first&size=200}
+\publistarxivsearch{https://arxiv.org/search/cond-mat?query=zhihuan+dong&searchtype=author&abstracts=show&order=-announced_date_first&size=200}
