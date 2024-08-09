@@ -28,8 +28,7 @@
 
 ## Undergraduates
 
-\insertprofile{ravindran}{Vibhu Ravindran}{/members/ravindran}{ vibhu.ravindran (at) berkeley.edu }
-\insertprofile{meng}{Howard Meng}{/members/meng}{howardm12138 (at) berkeley.edu}
+\insertprofile{adarsh_iyer}{Adarsh Iyer}{/members/adarsh_iyer}{ (at) berkeley.edu}
 
 ## Former members
 
@@ -53,7 +52,10 @@ Ryan Mishmash (2018-2019) - Researcher, Microsoft \\
 [Tomo Soejima](https://tomohiro-soejima.github.io/) (2018-2023) - Postdoc, Harvard University \\
 
 *Undergraduates:* \\
-Minxuan Wang (2023-2024) - Graduate, Student, Princeton University \\
+[Vibhu Ravindran](/members/ravindran) (2021-2024) - Graduate Student, California Institute of Technology
+[Howard Meng](/members/meng) (2022-2024) - Graduate Student, University of Illinois Urbana-Champaign\\
+Somwya Thanvantri (2022-2024) - Graduate Student, Princeton University \\
+Minxuan Wang (2023-2024) - Graduate Student, Princeton University \\
 Xuyang Yu (2020-2022) - Graduate Student, University of California, Santa Barbara \\
 
 ## Group photos
