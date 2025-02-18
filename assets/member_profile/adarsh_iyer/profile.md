@@ -1,1 +1,1 @@
-
+I am a fourth year undergraduate at Berkeley majoring in math and physics. I am currently studying infinite temperature diffusion in integrable spin chains, and I am also interested in a wide range of topics within condensed matter, as well as mathematical physics and gauge theory. Outside of academics, I enjoy playing the piano, studying philosophy, and rock climbing.
