@@ -28,9 +28,7 @@
 
 ## Undergraduates
 
-<!---
 \insertprofile{adarsh_iyer}{Adarsh Iyer}{/members/adarsh_iyer}{ (at) berkeley.edu}
--->
 
 ## Former members
 
