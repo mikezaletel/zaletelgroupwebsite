@@ -41,7 +41,7 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 
 For webmaster: a shortcut is running the following script
 ```
-./add_member.sh username "Full Name" yoururl email@example.com
+./add_member.sh username "Your Name" yoururl "your (at) email.edu"
 ```
 
 ### Setting up your Franklin environment
