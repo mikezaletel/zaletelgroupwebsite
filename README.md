@@ -41,6 +41,7 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 
 For webmaster: a shortcut is running the following script
 ```
+chmod +x add_member.sh
 ./add_member.sh username "Your Name" yoururl "your (at) email.edu"
 ```
 
