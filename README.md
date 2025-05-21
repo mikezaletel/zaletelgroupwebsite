@@ -1,6 +1,8 @@
 # Group website
 
 ## To-do
+- [ ] <Periodic> Update member list & their whereabouts, ideally automatic
+- [ ] <Periodic> Update "how to join our group" & contact google form
 - [ ] make member page look nicer -> Add former group members table with picture and next appointment.
 - [ ] Better documentation
 - [ ] _Scraping from more webpages (ORCID? arXiv search results?)_
