@@ -25,6 +25,7 @@
 \insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 \insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
 \insertprofile{shahin_jahanbani}{Shahin Jahanbani}{https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en}{ shahin_jahanbani (at) berkeley.edu }
+\insertprofile{jiechao_feng}{Jiechao Feng}{/members/jiechao_feng}{jiechao_feng (at) berkeley.edu}
 <!-- insert new members here -->
 
 ## Undergraduates
