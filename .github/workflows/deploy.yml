@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # every day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:              # optional: lets you kick it off manually
 jobs:
   build-and-deploy:
