@@ -39,6 +39,11 @@ Create `/members/yourname/index.md`. And start populating it with Markdown. You 
 
 `yoururl` of the resulting page is `/members/yourname/`.
 
+For webmaster: a shortcut is running the following script
+```
+./add_member.sh username "Full Name" yoururl email@example.com
+```
+
 ### Setting up your Franklin environment
 We want to set up a julia environment that has necessary packages. ([See here](https://julialang-s3.julialang.org/bin/linux/x64/1.9/julia-1.9.1-linux-x86_64.tar.gz)).
 To do so, navigate to `zaletelgroupwebsite` folder and launch `julia`. And then run
