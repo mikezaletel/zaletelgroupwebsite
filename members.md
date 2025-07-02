@@ -61,6 +61,13 @@ Minxuan Wang (2023-2024) - Physics Graduate Student, Princeton University \\
 Xuyang Yu (2020-2022) - Physics Graduate Student, University of California, Santa Barbara \\
 
 ## Group photos
+
+2025-06 Group Picnic\\
+![2025-06-26](/assets/group_photo_062625.jpg)
+
+2024-05 Group Dinner\\
+![2024-05-03](/assets/group_photo_050324.png)
+
 2023-12 Group Dinner\\
 ![2023-12-12](/assets/group_photo_121223.jpg)
 
