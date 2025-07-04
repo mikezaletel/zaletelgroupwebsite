@@ -1,32 +1,33 @@
 ## 2025 
-\publishedarticle{1}{Algorithms for variational Monte Carlo calculations of fermion PEPS in the swap gates formulation}{Yantao Wu, Zhehao Dai}{2506.20106}{}
-\publishedarticle{2}{Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D}{Yantao Wu, Wen-Yuan Liu}{2503.20566}{}
-\publishedarticle{3}{Alternating and Gaussian fermionic Isometric Tensor Network States}{Yantao Wu, Zhehao Dai, Sajant Anand, Sheng-Hsuan Lin, Qi Yang, Lei Wang, Frank Pollmann, Michael P. Zaletel}{2502.10695}{}
+\publishedarticle{1}{Solving the Hubbard model with Neural Quantum States}{Yuntian Gu, Wenrui Li, Heng Lin, Bo Zhan, Ruichen Li, Yifei Huang, Di He, Yantao Wu, Tao Xiang, Mingpu Qin, Liwei Wang, Dingshun Lv}{2507.02644}{}
+\publishedarticle{2}{Algorithms for variational Monte Carlo calculations of fermion PEPS in the swap gates formulation}{Yantao Wu, Zhehao Dai}{2506.20106}{}
+\publishedarticle{3}{Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D}{Yantao Wu, Wen-Yuan Liu}{2503.20566}{}
+\publishedarticle{4}{Alternating and Gaussian fermionic Isometric Tensor Network States}{Yantao Wu, Zhehao Dai, Sajant Anand, Sheng-Hsuan Lin, Qi Yang, Lei Wang, Frank Pollmann, Michael P. Zaletel}{2502.10695}{}
 ## 2024 
-\publishedarticle{4}{Conditional regression for the Nonlinear Single-Variable Model}{Yantao Wu, Mauro Maggioni}{2411.09686}{}
-\publishedarticle{5}{Tensor Network Python (TeNPy) version 1}{Johannes Hauschild, Jakob Unfried, Sajant Anand, Bartholomew Andrews, Marcus Bintz, Umberto Borla, Stefan Divic, Markus Drescher, Jan Geiger, Martin Hefel, Kévin Hémery, Wilhelm Kadow, Jack Kemp, Nico Kirchner, Vincent S. Liu, Gunnar Möller, Daniel Parker, Michael Rader, Anton Romen, Samuel Scalet, Leon Schoonderwoerd, Maximilian Schulz, Tomohiro Soejima, Philipp Thoma, Yantao Wu}{2408.02010}{SciPost Phys. Codebases 41 (2024)}
+\publishedarticle{5}{Conditional regression for the Nonlinear Single-Variable Model}{Yantao Wu, Mauro Maggioni}{2411.09686}{}
+\publishedarticle{6}{Tensor Network Python (TeNPy) version 1}{Johannes Hauschild, Jakob Unfried, Sajant Anand, Bartholomew Andrews, Marcus Bintz, Umberto Borla, Stefan Divic, Markus Drescher, Jan Geiger, Martin Hefel, Kévin Hémery, Wilhelm Kadow, Jack Kemp, Nico Kirchner, Vincent S. Liu, Gunnar Möller, Daniel Parker, Michael Rader, Anton Romen, Samuel Scalet, Leon Schoonderwoerd, Maximilian Schulz, Tomohiro Soejima, Philipp Thoma, Yantao Wu}{2408.02010}{SciPost Phys. Codebases 41 (2024)}
 ## 2023 
-\publishedarticle{6}{Global Existence of Weak Solutions to the Two Dimensional Nematic Liquid Crystal Flow with Partially Free Boundary}{Yannick Sire, Yantao Wu, Yifu Zhou}{2308.04358}{}
+\publishedarticle{7}{Global Existence of Weak Solutions to the Two Dimensional Nematic Liquid Crystal Flow with Partially Free Boundary}{Yannick Sire, Yantao Wu, Yifu Zhou}{2308.04358}{}
 ## 2022 
-\publishedarticle{7}{Two Dimensional Isometric Tensor Networks on an Infinite Strip}{Yantao Wu, Sajant Anand, Sheng-Hsuan Lin, Frank Pollmann, Michael P. Zaletel}{2211.14337}{Phys. Rev. B 107, 245118 (2023)}
-\publishedarticle{8}{Fermionic Isometric Tensor Network States in Two Dimensions}{Zhehao Dai, Yantao Wu, Taige Wang, Michael P. Zaletel}{2211.00043}{}
-\publishedarticle{9}{Gate Based Implementation of the Laplacian with BRGC Code for Universal Quantum Computers}{Ermal Rrapaj, Kenneth S. McElvain, Chia Cheng Chang, Yantao Wu, André Walker-Loud}{2207.11647}{}
+\publishedarticle{8}{Two Dimensional Isometric Tensor Networks on an Infinite Strip}{Yantao Wu, Sajant Anand, Sheng-Hsuan Lin, Frank Pollmann, Michael P. Zaletel}{2211.14337}{Phys. Rev. B 107, 245118 (2023)}
+\publishedarticle{9}{Fermionic Isometric Tensor Network States in Two Dimensions}{Zhehao Dai, Yantao Wu, Taige Wang, Michael P. Zaletel}{2211.00043}{}
+\publishedarticle{10}{Gate Based Implementation of the Laplacian with BRGC Code for Universal Quantum Computers}{Ermal Rrapaj, Kenneth S. McElvain, Chia Cheng Chang, Yantao Wu, André Walker-Loud}{2207.11647}{}
 ## 2021 
-\publishedarticle{10}{Halperin's conjecture in formal dimensions up to 20}{Lee Kennard, Yantao Wu}{2104.04086}{}
-\publishedarticle{11}{Improving Schrödinger Equation Implementations with Gray Code for Adiabatic Quantum Computers}{Chia Cheng Chang, Kenneth S. McElvain, Ermal Rrapaj, Yantao Wu}{2103.08056}{PRX Quantum 3, 020356 2022}
+\publishedarticle{11}{Halperin's conjecture in formal dimensions up to 20}{Lee Kennard, Yantao Wu}{2104.04086}{}
+\publishedarticle{12}{Improving Schrödinger Equation Implementations with Gray Code for Adiabatic Quantum Computers}{Chia Cheng Chang, Kenneth S. McElvain, Ermal Rrapaj, Yantao Wu}{2103.08056}{PRX Quantum 3, 020356 2022}
 ## 2020 
-\publishedarticle{12}{Dissipative dynamics in isolated quantum spin chains after a local quench}{Yantao Wu}{2010.00700}{}
-\publishedarticle{13}{Time-dependent variational principle of mixed matrix product states in the thermodynamic limit}{Yantao Wu}{2007.15035}{Phys. Rev. B 102, 134306 (2020)}
-\publishedarticle{14}{Continuous-time Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{2004.08765}{Phys. Rev. B 102, 014456 (2020)}
+\publishedarticle{13}{Dissipative dynamics in isolated quantum spin chains after a local quench}{Yantao Wu}{2010.00700}{}
+\publishedarticle{14}{Time-dependent variational principle of mixed matrix product states in the thermodynamic limit}{Yantao Wu}{2007.15035}{Phys. Rev. B 102, 134306 (2020)}
+\publishedarticle{15}{Continuous-time Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{2004.08765}{Phys. Rev. B 102, 014456 (2020)}
 ## 2019 
-\publishedarticle{15}{Quantum Momentum Distribution and Quantum Entanglement in the Deep Tunneling Regime}{Yantao Wu, Roberto Car}{1912.05072}{J. Chem. Phys. 152, 024106 (2020)}
-\publishedarticle{16}{Dynamical Quantum Phase Transitions of Quantum Spin Chains with the Loschmidt-rate Critical Exponent equal to $\frac{1}{2}$}{Yantao Wu}{1912.04181}{Phys. Rev. B 101, 064427 (2020)}
-\publishedarticle{17}{Dynamical Quantum Phase Transition of the Quantum $N$-state Potts Chain with Quenched Disorder}{Yantao Wu}{1908.04476}{}
-\publishedarticle{18}{Non-equilibrium Renormalization Group Fixed-Points of the Quantum Clock Chain and the Quantum Potts chain}{Yantao Wu}{1906.07945}{Phys. Rev. B 101, 014305 (2020)}
-\publishedarticle{19}{The Tangent Space to the Manifold of Critical Classical Hamiltonians Representable by Tensor Networks}{Yantao Wu}{1903.12137}{Phys. Rev. E 100, 023306 (2019)}
-\publishedarticle{20}{Determination of the Critical Manifold Tangent Space and Curvature with Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{1903.08231}{Phys. Rev. E 100, 022138 (2019)}
+\publishedarticle{16}{Quantum Momentum Distribution and Quantum Entanglement in the Deep Tunneling Regime}{Yantao Wu, Roberto Car}{1912.05072}{J. Chem. Phys. 152, 024106 (2020)}
+\publishedarticle{17}{Dynamical Quantum Phase Transitions of Quantum Spin Chains with the Loschmidt-rate Critical Exponent equal to $\frac{1}{2}$}{Yantao Wu}{1912.04181}{Phys. Rev. B 101, 064427 (2020)}
+\publishedarticle{18}{Dynamical Quantum Phase Transition of the Quantum $N$-state Potts Chain with Quenched Disorder}{Yantao Wu}{1908.04476}{}
+\publishedarticle{19}{Non-equilibrium Renormalization Group Fixed-Points of the Quantum Clock Chain and the Quantum Potts chain}{Yantao Wu}{1906.07945}{Phys. Rev. B 101, 014305 (2020)}
+\publishedarticle{20}{The Tangent Space to the Manifold of Critical Classical Hamiltonians Representable by Tensor Networks}{Yantao Wu}{1903.12137}{Phys. Rev. E 100, 023306 (2019)}
+\publishedarticle{21}{Determination of the Critical Manifold Tangent Space and Curvature with Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{1903.08231}{Phys. Rev. E 100, 022138 (2019)}
 ## 2018 
-\publishedarticle{21}{Monte Carlo Renormalization Group for Systems with Quenched Disorder}{Yantao Wu, Roberto Car}{1810.09579}{Phys. Rev. Lett. 125, 190601 (2020)}
+\publishedarticle{22}{Monte Carlo Renormalization Group for Systems with Quenched Disorder}{Yantao Wu, Roberto Car}{1810.09579}{Phys. Rev. Lett. 125, 190601 (2020)}
 ## 2017 
-\publishedarticle{22}{A Variational Approach to Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{1707.08683}{Phys. Rev. Lett. 119, 220602 (2017)}
+\publishedarticle{23}{A Variational Approach to Monte Carlo Renormalization Group}{Yantao Wu, Roberto Car}{1707.08683}{Phys. Rev. Lett. 119, 220602 (2017)}
 
