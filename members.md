@@ -49,7 +49,7 @@ Nick Bultinck (2017-2020) - Professor, Ghent University \\
 Ryan Mishmash (2018-2019) - Researcher, Microsoft \\
 
 *Grad students:* \\
-[Jung Pyo (JP) Hong](/members/hong) (2015-2023)\\
+[Jung Pyo (JP) Hong](/members/hong) (2015-2023) - Data scientist \\
 [Karthik Siva](https://ksksks1.github.io/) (2017-2023) - Research scientist, IBM \\
 [Tomo Soejima](https://tomohiro-soejima.github.io/) (2018-2023) - Postdoc, Harvard University \\
 
