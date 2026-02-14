@@ -1,3 +1,14 @@
-## 2025 
-\publishedarticle{1}{In situ vs ex situ: Comparing the structure of PNIPAM microgels at the air/water and air/solid interfaces}{Hayden Robertson, Joanne Zimmer, Anuar Sifuentes Name, Cassia Lux, Sebastian Stock, Regine von Klitzing, Olaf Soltwedel}{2503.14181}{}
+HTTP.Exceptions.StatusError(406, "GET", "/search/cond-mat?query=NAME&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
+"""
+HTTP/1.1 406 Not Acceptable
+Connection: keep-alive
+cache-control: private, no-store
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Date: Sat, 14 Feb 2026 02:06:31 GMT
+X-Served-By: cache-lga21978-LGA, cache-lga21946-LGA, cache-chi-kigq8000108-CHI
+X-Cache: MISS, MISS
+X-Timer: S1771034791.243053,VS0,VE49
+transfer-encoding: chunked
 
+""")
