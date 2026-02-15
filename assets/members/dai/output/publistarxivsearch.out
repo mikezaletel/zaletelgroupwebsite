@@ -1,14 +1,25 @@
-HTTP.Exceptions.StatusError(406, "GET", "/search/?query=Zhehao+Dai&searchtype=author&source=header", HTTP.Messages.Response:
-"""
-HTTP/1.1 406 Not Acceptable
-Connection: keep-alive
-cache-control: private, no-store
-Accept-Ranges: bytes
-Via: 1.1 varnish, 1.1 varnish
-Date: Sat, 14 Feb 2026 02:06:34 GMT
-X-Served-By: cache-lga21930-LGA, cache-lga21931-LGA, cache-chi-kigq8000041-CHI
-X-Cache: MISS, MISS
-X-Timer: S1771034794.074827,VS0,VE53
-transfer-encoding: chunked
+## 2025 
+\publishedarticle{1}{No-go theorems for sequential preparation of two-dimensional chiral states via channel-state correspondence}{Ruihua Fan, Yantao Wu, Yimu Bao, Zhehao Dai}{2511.19612}{}
+\publishedarticle{2}{Multimodal Trajectory Representation Learning for Travel Time Estimation}{Zhi Liu, Xuyuan Hu, Xiao Han, Zhehao Dai, Zhaolin Deng, Guojiang Shen, Xiangjie Kong}{2510.05840}{}
+\publishedarticle{3}{Algorithms for variational Monte Carlo calculations of fermion projected entangled pair states in the swap gates formulation and the detailed balance of tensor network sequential sampling}{Yantao Wu, Zhehao Dai}{2506.20106}{}
+\publishedarticle{4}{Alternating and Gaussian fermionic Isometric Tensor Network States}{Yantao Wu, Zhehao Dai, Sajant Anand, Sheng-Hsuan Lin, Qi Yang, Lei Wang, Frank Pollmann, Michael P. Zaletel}{2502.10695}{}
+## 2024 
+\publishedarticle{5}{Designing exciton-condensate Josephson junction in quantum Hall heterostructures}{Tianle Wang, Ruihua Fan, Zhehao Dai, Michael P. Zaletel}{2409.19059}{Phys. Rev. B 112, L041120 (2025)}
+## 2023 
+\publishedarticle{6}{Effective model for Pb$_9$Cu(PO$_4$)$_6$O}{Patrick A. Lee, Zhehao Dai}{2308.04480}{}
+## 2022 
+\publishedarticle{7}{Fermionic Isometric Tensor Network States in Two Dimensions}{Zhehao Dai, Yantao Wu, Taige Wang, Michael P. Zaletel}{2211.00043}{Phys. Rev. Lett. 134, 026502 (2025)}
+\publishedarticle{8}{Photo-induced Superconductivity = Discrete Time Crystal?}{Zhehao Dai, Vibhu Ravindran, Norman Y. Yao, Michael P. Zaletel}{2209.05510}{}
+## 2021 
+\publishedarticle{9}{Superconducting-like response in driven systems near the Mott transition}{Zhehao Dai, Patrick A. Lee}{2106.08354}{}
+\publishedarticle{10}{Photo-induced superconducting-like response in strongly correlated systems}{Zhehao Dai, Patrick A. Lee}{2103.09255}{Phys. Rev. B 104, 054512 (2021)}
+## 2020 
+\publishedarticle{11}{Exploring Strongly Interacting Gapless States: Cuprates, Pair Density Waves, and Fluctuating Superconductivity}{Zhehao Dai}{2005.12285}{}
+## 2019 
+\publishedarticle{12}{Quantum criticality of loops with topologically constrained dynamics}{Zhehao Dai, Adam Nahum}{1910.01136}{Phys. Rev. Research 2, 033051 (2020)}
+\publishedarticle{13}{Modeling the pseudogap metallic state in cuprates: quantum disordered pair density wave}{Zhehao Dai, T. Senthil, Patrick A. Lee}{1906.01656}{Phys. Rev. B 101, 064502 (2020)}
+## 2018 
+\publishedarticle{14}{Pair density wave, charge density wave and vortex in high Tc cuprates}{Zhehao Dai, Ya-Hui Zhang, T. Senthil, Patrick Lee}{1802.03009}{Phys. Rev. B 97, 174511 (2018)}
+## 2016 
+\publishedarticle{15}{Optical Conductivity From Pair Density Waves}{Zhehao Dai, Patrick A. Lee}{1608.01108}{Phys. Rev. B 95, 014506 (2017)}
 
-""")

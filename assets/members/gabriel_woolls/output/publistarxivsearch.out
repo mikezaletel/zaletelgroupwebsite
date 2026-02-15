@@ -1,14 +1,3 @@
-HTTP.Exceptions.StatusError(406, "GET", "/search/physics?query=Gabriel+Woolls&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
-"""
-HTTP/1.1 406 Not Acceptable
-Connection: keep-alive
-cache-control: private, no-store
-Accept-Ranges: bytes
-Via: 1.1 varnish, 1.1 varnish
-Date: Sat, 14 Feb 2026 02:06:30 GMT
-X-Served-By: cache-lga21986-LGA, cache-lga21964-LGA, cache-chi-kigq8000026-CHI
-X-Cache: MISS, MISS
-X-Timer: S1771034791.811834,VS0,VE39
-transfer-encoding: chunked
+## 2020 
+\publishedarticle{1}{Simulation of Cryogenic Buffer Gas Beams}{Yuiki Takahashi, David Shlivko, Gabriel Woolls, Nicholas R. Hutzler}{2011.11887}{Phys. Rev. Research 3, 023018 (2021)}
 
-""")

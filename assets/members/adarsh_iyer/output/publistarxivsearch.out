@@ -1,14 +1,1 @@
-HTTP.Exceptions.StatusError(406, "GET", "/search/cond-mat?query=Adarsh+Iyer&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
-"""
-HTTP/1.1 406 Not Acceptable
-Connection: keep-alive
-cache-control: private, no-store
-Accept-Ranges: bytes
-Via: 1.1 varnish, 1.1 varnish
-Date: Sat, 14 Feb 2026 02:06:32 GMT
-X-Served-By: cache-lga21938-LGA, cache-lga21982-LGA, cache-chi-kigq8000083-CHI
-X-Cache: MISS, MISS
-X-Timer: S1771034793.937376,VS0,VE47
-transfer-encoding: chunked
 
-""")
