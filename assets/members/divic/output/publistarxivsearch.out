@@ -1,14 +1,14 @@
-## 2025 
-\publishedarticle{1}{Spin Polarons in Flat Band Ferromagnets}{Saranesh Prembabu, Rahul Sahay, Stefan Divic, Ashvin Vishwanath}{2510.26798}{}
-\publishedarticle{2}{Robust superconductivity upon doping chiral spin liquid and Chern insulators in a Hubbard-Hofstadter model}{Clemens Kuhlenkamp, Stefan Divic, Michael P. Zaletel, Tomohiro Soejima, Ashvin Vishwanath}{2509.02675}{}
-## 2024 
-\publishedarticle{3}{Anyon Superconductivity from Topological Criticality in a Hofstadter-Hubbard Model}{Stefan Divic, Valentin Crépel, Tomohiro Soejima, Xue-Yang Song, Andrew J. Millis, Michael P. Zaletel, Ashvin Vishwanath}{2410.18175}{Proc. Natl. Acad. Sci. U.S.A. 122 (33) e2426680122 (2025)}
-\publishedarticle{4}{Tensor Network Python (TeNPy) version 1}{Johannes Hauschild, Jakob Unfried, Sajant Anand, Bartholomew Andrews, Marcus Bintz, Umberto Borla, Stefan Divic, Markus Drescher, Jan Geiger, Martin Hefel, Kévin Hémery, Wilhelm Kadow, Jack Kemp, Nico Kirchner, Vincent S. Liu, Gunnar Möller, Daniel Parker, Michael Rader, Anton Romen, Samuel Scalet, Leon Schoonderwoerd, Maximilian Schulz, Tomohiro Soejima, Philipp Thoma, Yantao Wu}{2408.02010}{SciPost Phys. Codebases 41 (2024)}
-\publishedarticle{5}{Chiral Spin Liquid and Quantum Phase Transition in the Triangular Lattice Hofstadter-Hubbard Model}{Stefan Divic, Tomohiro Soejima, Valentin Crépel, Michael P. Zaletel, Andrew Millis}{2406.15348}{}
-## 2023 
-\publishedarticle{6}{Superconductivity in a Topological Lattice Model with Strong Repulsion}{Rahul Sahay, Stefan Divic, Daniel E. Parker, Tomohiro Soejima, Sajant Anand, Johannes Hauschild, Monika Aidelsburger, Ashvin Vishwanath, Shubhayu Chatterjee, Norman Y. Yao, Michael P. Zaletel}{2308.10935}{Phys. Rev. B 110, 195126 (2024)}
-## 2021 
-\publishedarticle{7}{Magnetic skyrmion crystal at a topological insulator surface}{Stefan Divic, Henry Ling, T. Pereg-Barnea, Arun Paramekanti}{2103.15841}{Phys. Rev. B 105, 035156 (2022)}
-## 2018 
-\publishedarticle{8}{Tunable skyrmion crystals and topological quantum oscillations in magnetic metals}{Sopheak Sorn, Stefan Divic, Arun Paramekanti}{1810.08207}{Phys. Rev. B 100, 174411 (2019)}
+HTTP.Exceptions.StatusError(406, "GET", "/search/cond-mat?query=Stefan+Divic&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
+"""
+HTTP/1.1 406 Not Acceptable
+Connection: keep-alive
+cache-control: private, no-store
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Date: Fri, 20 Feb 2026 02:09:21 GMT
+X-Served-By: cache-lga21980-LGA, cache-lga21981-LGA, cache-chi-kigq8000097-CHI
+X-Cache: MISS, MISS
+X-Timer: S1771553362.548296,VS0,VE382
+transfer-encoding: chunked
 
+""")
