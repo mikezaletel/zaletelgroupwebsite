@@ -1,14 +1,5 @@
-HTTP.Exceptions.StatusError(406, "GET", "/search/cond-mat?query=Jung+Pyo+Hong&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
-"""
-HTTP/1.1 406 Not Acceptable
-Connection: keep-alive
-cache-control: private, no-store
-Accept-Ranges: bytes
-Via: 1.1 varnish, 1.1 varnish
-Date: Fri, 20 Feb 2026 02:09:22 GMT
-X-Served-By: cache-lga21932-LGA, cache-lga21945-LGA, cache-chi-kigq8000139-CHI
-X-Cache: MISS, MISS
-X-Timer: S1771553363.505819,VS0,VE138
-transfer-encoding: chunked
+## 2023 
+\publishedarticle{1}{Quantum textures of the many-body wavefunctions in magic-angle graphene}{Kevin P. Nuckolls, Ryan L. Lee, Myungchul Oh, Dillon Wong, Tomohiro Soejima, Jung Pyo Hong, Dumitru Călugăru, Jonah Herzog-Arbeitman, B. Andrei Bernevig, Kenji Watanabe, Takashi Taniguchi, Nicolas Regnault, Michael P. Zaletel, Ali Yazdani}{2303.00024}{Nature 620, 525-532 (2023)}
+## 2021 
+\publishedarticle{2}{Detecting symmetry breaking in magic angle graphene using scanning tunneling microscopy}{Jung Pyo Hong, Tomohiro Soejima, Michael P. Zaletel}{2110.14674}{}
 
-""")
