@@ -1,1 +1,16 @@
+HTTP.Exceptions.StatusError(429, "GET", "/search/cond-mat?query=Adarsh+Iyer&searchtype=author&abstracts=show&order=-announced_date_first&size=200", HTTP.Messages.Response:
+"""
+HTTP/1.1 429 Too Many Requests
+Connection: keep-alive
+Content-Length: 14
+via: 1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+server: Google Frontend
+x-cloud-trace-context: 4dfe100e28ec4010539d08755fbdb167
+content-type: text/html
+Date: Fri, 27 Mar 2026 02:35:36 GMT
+X-Served-By: cache-lga21974-LGA, cache-lga21982-LGA, cache-dfw-kdfw8210160-DFW
+X-Cache: MISS, MISS, MISS
+X-Timer: S1774578936.998422,VS0,VE122
 
+Rate exceeded.""")
