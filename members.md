@@ -19,18 +19,15 @@
 
 ## Grad Students
 
-\insertprofile{wang}{Tianle Wang}{/members/wang}{tianle_wang (at) berkeley.edu}
-\insertprofile{divic}{Stefan Divic}{/members/divic}{stefan_divic (at) berkeley.edu}
-\insertprofile{anand}{Sajant Anand}{/members/anand}{sajant (at) berkeley.edu}
-\insertprofile{taige}{Taige Wang}{/members/taige}{tgwang (at) berkeley.edu}
 \insertprofile{gabriel_woolls}{Gabriel Woolls}{/members/gabriel_woolls}{gwoolls (at) berkeley.edu}
 \insertprofile{shahin_jahanbani}{Shahin Jahanbani}{https://scholar.google.com/citations?user=wXuGb3oAAAAJ&hl=en}{ shahin_jahanbani (at) berkeley.edu }
 \insertprofile{jiechao_feng}{Jiechao Feng}{/members/jiechao_feng}{jiechao_feng (at) berkeley.edu}
+\insertprofile{amir_s_mohammadi}{Amir Shapour Mohammadi}{https://amirshapourmohammadi.com}{amirsm (at) berkeley.edu}
 <!-- insert new members here -->
 
-## Undergraduates
-
-\insertprofile{adarsh_iyer}{Adarsh Iyer}{/members/adarsh_iyer}{ (at) berkeley.edu}
+<!--- 
+## Undergraduates 
+-->
 
 ## Former members
 
@@ -49,13 +46,18 @@ Nick Bultinck (2017-2020) - Professor, Ghent University \\
 Ryan Mishmash (2018-2019) - Researcher, Microsoft \\
 
 *Grad students:* \\
+[Tianle Wang](/members/wang) (2019-2025) - Postdoc, Harvard University \\
+[Stefan Divic](/members/divic) (-2025) - Postdoc, University of Pennsylvania \\
+[Sajant Anand](/members/anand) (-2025) - Postdoc, Harvard University \\
+[Taige Wang](/members/taige) (2020-2025) - Postdoc, Harvard University + Massachusetts Institute of Technology \\
 [Jung Pyo (JP) Hong](/members/hong) (2015-2023) - Data scientist \\
 [Karthik Siva](https://ksksks1.github.io/) (2017-2023) - Research scientist, IBM \\
 [Tomo Soejima](https://tomohiro-soejima.github.io/) (2018-2023) - Postdoc, Harvard University \\
 
 *Undergraduates:* \\
-[Vibhu Ravindran](/members/ravindran) (2021-2024) - Physics Graduate Student, California Institute of Technology\\
-[Howard Meng](/members/meng) (2022-2024) - Physics Graduate Student, University of Illinois Urbana-Champaign\\
+[Adarsh Iyer](/members/adarsh_iyer) (-2025) - Math + Physics Masters Student, Cambridge University \\
+[Vibhu Ravindran](/members/ravindran) (2021-2024) - Physics Graduate Student, California Institute of Technology \\
+[Howard Meng](/members/meng) (2022-2024) - Physics Graduate Student, University of Illinois Urbana-Champaign \\
 Somwya Thanvantri (2022-2024) - CS Graduate Student, Princeton University \\
 Minxuan Wang (2023-2024) - Physics Graduate Student, Princeton University \\
 Xuyang Yu (2020-2022) - Physics Graduate Student, University of California, Santa Barbara \\
