@@ -28,6 +28,8 @@
 <!--- 
 ## Undergraduates 
 -->
+\insertprofile{frank_yin}{Zhifan (Frank) Yin}{https://frankyin-jpg.github.io/zhifan-website/}{zhifan.yin (at) berkeley.edu}
+
 
 ## Former members
 
@@ -35,7 +37,7 @@
 [link to xyz mini-website?](/members/xyz)
 -->
 *Postdocs:* \\
-[Yantao Wu](/members/wu) (2021-2024) - Researcher, Institute of Physics, Chinese Academy of Sciences \\
+[Yantao Wu](/members/wu) (2021-2024) - Assistant Professor, Institute of Physics, Chinese Academy of Sciences \\
 [Zhehao Dai](/members/dai) (2020-2024) - Assistant Professor, University of Pittsburgh \\
 [Jong Yeon Lee](https://physics.illinois.edu/people/directory/profile/jongyeon) (2023-2024) - Assistant Professor, University of Illinois Urbana-Champaign \\
 [Bart Andrews](https://bartandrews.me) (2022-2024) - Postdoc, ETH Zurich \\
@@ -47,8 +49,8 @@ Ryan Mishmash (2018-2019) - Researcher, Microsoft \\
 
 *Grad students:* \\
 [Tianle Wang](/members/wang) (2019-2025) - Postdoc, Harvard University \\
-[Stefan Divic](/members/divic) (-2025) - Postdoc, University of Pennsylvania \\
-[Sajant Anand](/members/anand) (-2025) - Postdoc, Harvard University \\
+[Stefan Divic](/members/divic) (2019-2025) - Postdoc, University of Pennsylvania \\
+[Sajant Anand](/members/anand) (2019-2025) - Postdoc, Harvard University \\
 [Taige Wang](/members/taige) (2020-2025) - Postdoc, Harvard University + Massachusetts Institute of Technology \\
 [Jung Pyo (JP) Hong](/members/hong) (2015-2023) - Data scientist \\
 [Karthik Siva](https://ksksks1.github.io/) (2017-2023) - Research scientist, IBM \\
