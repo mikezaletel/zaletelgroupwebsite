@@ -24,10 +24,9 @@
 \insertprofile{jiechao_feng}{Jiechao Feng}{/members/jiechao_feng}{jiechao_feng (at) berkeley.edu}
 \insertprofile{amir_s_mohammadi}{Amir Shapour Mohammadi}{https://amirshapourmohammadi.com}{amirsm (at) berkeley.edu}
 <!-- insert new members here -->
-
-<!--- 
+ 
 ## Undergraduates 
--->
+
 \insertprofile{frank_yin}{Zhifan (Frank) Yin}{https://frankyin-jpg.github.io/zhifan-website/}{zhifan.yin (at) berkeley.edu}
 
 
