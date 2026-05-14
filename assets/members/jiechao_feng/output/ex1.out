@@ -1,0 +1,46 @@
+HTTP.Exceptions.StatusError(404, "GET", "/a/your_author_profile.html", HTTP.Messages.Response:
+"""
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+server: Apache
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+strict-transport-security: max-age=31536000
+accept-ranges: bytes
+x-catalyst: 5.90019
+content-encoding: gzip
+content-type: text/html; charset=utf-8
+set-cookie: ******
+Date: Thu, 14 May 2026 20:15:44 GMT
+X-Served-By: cache-lga21942-LGA, cache-lga21924-LGA, cache-iad-kcgs7200123-IAD
+X-Cache: MISS, MISS, MISS
+X-Timer: S1778789745.639711,VS0,VE141
+Vary: Accept-Encoding
+transfer-encoding: chunked
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>arXiv.org</title>
+  <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/arXivCat.css?date=20250331" />
+  
+ </head>
+ <body>
+
+   <div class="flex-wrap-footer">
+    
+    
+    <div id="cu-identity">
+  <div id="cu-logo">
+    <a href="https://www.cornell.edu/"><img src="//static.arxiv.org/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University" width="200" border="0" /></a>
+  </div>
+  <div class="column" id="support-ack">
+    <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors. <a href="https://info.arxiv.org/about/donate.html">Donate</a></span>
+  </div>
+</div>
+    <div id="header">
+      <h1 class="arxiv-logo"><a href=
+⋮
+7042-byte body
+""")
