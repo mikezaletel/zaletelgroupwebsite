@@ -1,46 +1,10 @@
-HTTP.Exceptions.StatusError(404, "GET", "/a/your_author_profile.html", HTTP.Messages.Response:
-"""
-HTTP/1.1 404 Not Found
-Connection: keep-alive
-server: Apache
-via: 1.1 varnish, 1.1 varnish, 1.1 varnish
-strict-transport-security: max-age=31536000
-accept-ranges: bytes
-x-catalyst: 5.90019
-content-encoding: gzip
-content-type: text/html; charset=utf-8
-set-cookie: ******
-Date: Thu, 14 May 2026 20:15:44 GMT
-X-Served-By: cache-lga21942-LGA, cache-lga21924-LGA, cache-iad-kcgs7200123-IAD
-X-Cache: MISS, MISS, MISS
-X-Timer: S1778789745.639711,VS0,VE141
-Vary: Accept-Encoding
-transfer-encoding: chunked
+## 2026 
+\publishedarticle{1}{Studying 3D O(N) Surface CFT on the Fuzzy Sphere}{Jiechao Feng, Taige Wang}{2604.21091}{}
+\publishedarticle{2}{Self-doped Crystal from Preempted Band-inversion Transitions}{Jiechao Feng, Zhaoyu Han, Michael P. Zaletel, Zhihuan Dong}{2604.09820}{}
+## 2025 
+\publishedarticle{3}{Enhanced shot noise in graphene quantum point contacts with  electrostatic reconstruction}{M. Garg, O. Maillet, N. L. Samuelson, T. Wang, J. Feng, L. A. Cohen, A. Zhang, K. Watanabe, T. Taniguchi, P. Roulleau, M. Sassetti, M. Zaletel, A. F. Young, D. Ferraro, P. Roche, F. D. Parmentier}{2503.17209}{}
+\publishedarticle{4}{Critical Motility-Induced Phase Separation in Three Dimensions is  Consistent with Ising Universality}{Jiechao Feng, Daniel Evans, Ahmad K. Omar}{2502.09069}{Phys. Rev. E 112, 055413 (2025)}
+## 2024 
+\publishedarticle{5}{A Recursive Hybrid Tetrahedron Method for Brillouin-zone Integration}{Kun Dong, Yihao Lin, Xiaoqiang Liu, Jiechao Feng, Ji Feng}{2411.17162}{}
+\publishedarticle{6}{Theory for the Anomalous Phase Behavior of Inertial Active Brownian  Particles}{Jiechao Feng, Ahmad K. Omar}{2407.08676}{Phys. Rev. E 111, L043402 (2025)}
 
-<!DOCTYPE html>
-<html lang="en">
- <head>
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>arXiv.org</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/arXivCat.css?date=20250331" />
-  
- </head>
- <body>
-
-   <div class="flex-wrap-footer">
-    
-    
-    <div id="cu-identity">
-  <div id="cu-logo">
-    <a href="https://www.cornell.edu/"><img src="//static.arxiv.org/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University" width="200" border="0" /></a>
-  </div>
-  <div class="column" id="support-ack">
-    <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors. <a href="https://info.arxiv.org/about/donate.html">Donate</a></span>
-  </div>
-</div>
-    <div id="header">
-      <h1 class="arxiv-logo"><a href=
-⋮
-7042-byte body
-""")
