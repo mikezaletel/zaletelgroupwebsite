@@ -1,1 +1,1 @@
-Sup! My name is Frank and I am a third-year studying Physics, Music and Statistics. My current interests involve Fractional Quantum Hall Effects and Tensor Networks simulation for 2D many-body systems. Beyond these, I enjoy chilling. 
+Sup! I am a third-year studying Physics, Music and Statistics. My current interests involve Fractional Quantum Hall Effects and Tensor Networks simulation for 2D many-body systems. Beyond these, I enjoy chilling. 
