@@ -1,0 +1,1 @@
+I’m an undergrad physics student interested in thermal states in 2D quantum systems, with a focus on tensor network methods and quantum simulation. 

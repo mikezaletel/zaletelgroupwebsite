@@ -28,7 +28,7 @@
 ## Undergraduates 
 
 \insertprofile{frank_yin}{Zhifan (Frank) Yin}{https://frankyin-jpg.github.io/zhifan-website/}{zhifan.yin (at) berkeley.edu}
-
+\insertprofile{ayush_gopal}{Ayush Gopal}{/members/ayush_gopal}{gopalayu27 (at) berkeley.edu}
 
 ## Former members
 
